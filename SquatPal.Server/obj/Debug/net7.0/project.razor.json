@@ -13,562 +13,7 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": 17982755,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.ClientPages.Index",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.ClientPages.Index",
-          "Common.TypeNamespace": "SquatPal.Server.Pages.ClientPages",
-          "Common.TypeNameIdentifier": "Index"
-        }
-      },
-      {
-        "HashCode": -741251193,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.ClientPages.Index",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SquatPal.Server.Pages.ClientPages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.ClientPages.Index",
-          "Common.TypeNamespace": "SquatPal.Server.Pages.ClientPages",
-          "Common.TypeNameIdentifier": "Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 483976996,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.ClientPages.Create",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Create"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.ClientPages.Create",
-          "Common.TypeNamespace": "SquatPal.Server.Pages.ClientPages",
-          "Common.TypeNameIdentifier": "Create"
-        }
-      },
-      {
-        "HashCode": 371349796,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.ClientPages.Create",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SquatPal.Server.Pages.ClientPages.Create"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.ClientPages.Create",
-          "Common.TypeNamespace": "SquatPal.Server.Pages.ClientPages",
-          "Common.TypeNameIdentifier": "Create",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -787630967,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.ClientPages.Detail",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Detail"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.ClientPages.Detail",
-          "Common.TypeNamespace": "SquatPal.Server.Pages.ClientPages",
-          "Common.TypeNameIdentifier": "Detail"
-        }
-      },
-      {
-        "HashCode": 536588424,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.ClientPages.Detail",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SquatPal.Server.Pages.ClientPages.Detail"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.ClientPages.Detail",
-          "Common.TypeNamespace": "SquatPal.Server.Pages.ClientPages",
-          "Common.TypeNameIdentifier": "Detail",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1129344114,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.ClientPages.Edit",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Edit"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.ClientPages.Edit",
-          "Common.TypeNamespace": "SquatPal.Server.Pages.ClientPages",
-          "Common.TypeNameIdentifier": "Edit"
-        }
-      },
-      {
-        "HashCode": -1008309014,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.ClientPages.Edit",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SquatPal.Server.Pages.ClientPages.Edit"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.ClientPages.Edit",
-          "Common.TypeNamespace": "SquatPal.Server.Pages.ClientPages",
-          "Common.TypeNameIdentifier": "Edit",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 366778207,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.ExercisePlanPages.Index",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.ExercisePlanPages.Index",
-          "Common.TypeNamespace": "SquatPal.Server.Pages.ExercisePlanPages",
-          "Common.TypeNameIdentifier": "Index"
-        }
-      },
-      {
-        "HashCode": -1165072705,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.ExercisePlanPages.Index",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SquatPal.Server.Pages.ExercisePlanPages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.ExercisePlanPages.Index",
-          "Common.TypeNamespace": "SquatPal.Server.Pages.ExercisePlanPages",
-          "Common.TypeNameIdentifier": "Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1957587823,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.ExercisePlanPages.Create",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Create"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.ExercisePlanPages.Create",
-          "Common.TypeNamespace": "SquatPal.Server.Pages.ExercisePlanPages",
-          "Common.TypeNameIdentifier": "Create"
-        }
-      },
-      {
-        "HashCode": 371349979,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.ExercisePlanPages.Create",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SquatPal.Server.Pages.ExercisePlanPages.Create"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.ExercisePlanPages.Create",
-          "Common.TypeNamespace": "SquatPal.Server.Pages.ExercisePlanPages",
-          "Common.TypeNameIdentifier": "Create",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -712600706,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.ExercisePlanPages.Detail",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Detail"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.ExercisePlanPages.Detail",
-          "Common.TypeNamespace": "SquatPal.Server.Pages.ExercisePlanPages",
-          "Common.TypeNameIdentifier": "Detail"
-        }
-      },
-      {
-        "HashCode": 1297072561,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.ExercisePlanPages.Detail",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SquatPal.Server.Pages.ExercisePlanPages.Detail"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.ExercisePlanPages.Detail",
-          "Common.TypeNamespace": "SquatPal.Server.Pages.ExercisePlanPages",
-          "Common.TypeNameIdentifier": "Detail",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1408700983,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.ExercisePlanPages.Delete",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Delete"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.ExercisePlanPages.Delete",
-          "Common.TypeNamespace": "SquatPal.Server.Pages.ExercisePlanPages",
-          "Common.TypeNameIdentifier": "Delete"
-        }
-      },
-      {
-        "HashCode": 2021771628,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.ExercisePlanPages.Delete",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SquatPal.Server.Pages.ExercisePlanPages.Delete"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.ExercisePlanPages.Delete",
-          "Common.TypeNamespace": "SquatPal.Server.Pages.ExercisePlanPages",
-          "Common.TypeNameIdentifier": "Delete",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 796697083,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.ExercisePlanPages.Edit",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Edit"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.ExercisePlanPages.Edit",
-          "Common.TypeNamespace": "SquatPal.Server.Pages.ExercisePlanPages",
-          "Common.TypeNameIdentifier": "Edit"
-        }
-      },
-      {
-        "HashCode": -444921797,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.ExercisePlanPages.Edit",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SquatPal.Server.Pages.ExercisePlanPages.Edit"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.ExercisePlanPages.Edit",
-          "Common.TypeNamespace": "SquatPal.Server.Pages.ExercisePlanPages",
-          "Common.TypeNameIdentifier": "Edit",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1097337844,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.MembershipTierPages.Index",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.MembershipTierPages.Index",
-          "Common.TypeNamespace": "SquatPal.Server.Pages.MembershipTierPages",
-          "Common.TypeNameIdentifier": "Index"
-        }
-      },
-      {
-        "HashCode": -1556171209,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.MembershipTierPages.Index",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SquatPal.Server.Pages.MembershipTierPages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.MembershipTierPages.Index",
-          "Common.TypeNamespace": "SquatPal.Server.Pages.MembershipTierPages",
-          "Common.TypeNameIdentifier": "Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1591094515,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.MembershipTierPages.Create",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Create"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.MembershipTierPages.Create",
-          "Common.TypeNamespace": "SquatPal.Server.Pages.MembershipTierPages",
-          "Common.TypeNameIdentifier": "Create"
-        }
-      },
-      {
-        "HashCode": -1924956121,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.MembershipTierPages.Create",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SquatPal.Server.Pages.MembershipTierPages.Create"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.MembershipTierPages.Create",
-          "Common.TypeNamespace": "SquatPal.Server.Pages.MembershipTierPages",
-          "Common.TypeNameIdentifier": "Create",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -315397328,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.MembershipTierPages.Detail",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Detail"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.MembershipTierPages.Detail",
-          "Common.TypeNamespace": "SquatPal.Server.Pages.MembershipTierPages",
-          "Common.TypeNameIdentifier": "Detail"
-        }
-      },
-      {
-        "HashCode": -1419802236,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.MembershipTierPages.Detail",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SquatPal.Server.Pages.MembershipTierPages.Detail"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.MembershipTierPages.Detail",
-          "Common.TypeNamespace": "SquatPal.Server.Pages.MembershipTierPages",
-          "Common.TypeNameIdentifier": "Detail",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1068409304,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.MembershipTierPages.Edit",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Edit"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.MembershipTierPages.Edit",
-          "Common.TypeNamespace": "SquatPal.Server.Pages.MembershipTierPages",
-          "Common.TypeNameIdentifier": "Edit"
-        }
-      },
-      {
-        "HashCode": -1550723159,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.MembershipTierPages.Edit",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SquatPal.Server.Pages.MembershipTierPages.Edit"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.MembershipTierPages.Edit",
-          "Common.TypeNamespace": "SquatPal.Server.Pages.MembershipTierPages",
-          "Common.TypeNameIdentifier": "Edit",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 39516667,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.MembershipTierPages.Delete",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Delete"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.MembershipTierPages.Delete",
-          "Common.TypeNamespace": "SquatPal.Server.Pages.MembershipTierPages",
-          "Common.TypeNameIdentifier": "Delete"
-        }
-      },
-      {
-        "HashCode": -1527984533,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.MembershipTierPages.Delete",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SquatPal.Server.Pages.MembershipTierPages.Delete"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.MembershipTierPages.Delete",
-          "Common.TypeNamespace": "SquatPal.Server.Pages.MembershipTierPages",
-          "Common.TypeNameIdentifier": "Delete",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1197676180,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.Index",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.Index",
-          "Common.TypeNamespace": "SquatPal.Server.Pages",
-          "Common.TypeNameIdentifier": "Index"
-        }
-      },
-      {
-        "HashCode": -56576676,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.Index",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SquatPal.Server.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.Index",
-          "Common.TypeNamespace": "SquatPal.Server.Pages",
-          "Common.TypeNameIdentifier": "Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1144590138,
+        "HashCode": -1542209924,
         "Kind": "Components.Component",
         "Name": "SquatPal.Server.Pages.AdminUserPages.Create",
         "AssemblyName": "SquatPal.Server",
@@ -586,7 +31,7 @@
         }
       },
       {
-        "HashCode": -43664457,
+        "HashCode": 1249410232,
         "Kind": "Components.Component",
         "Name": "SquatPal.Server.Pages.AdminUserPages.Create",
         "AssemblyName": "SquatPal.Server",
@@ -605,7 +50,7 @@
         }
       },
       {
-        "HashCode": -890954455,
+        "HashCode": -2133036758,
         "Kind": "Components.Component",
         "Name": "SquatPal.Server.Pages.AdminUserPages.Index",
         "AssemblyName": "SquatPal.Server",
@@ -623,7 +68,7 @@
         }
       },
       {
-        "HashCode": -1191192253,
+        "HashCode": 236364998,
         "Kind": "Components.Component",
         "Name": "SquatPal.Server.Pages.AdminUserPages.Index",
         "AssemblyName": "SquatPal.Server",
@@ -642,7 +87,775 @@
         }
       },
       {
-        "HashCode": 954360599,
+        "HashCode": -737369091,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.ClientPages.Create",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Create"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.ClientPages.Create",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.ClientPages",
+          "Common.TypeNameIdentifier": "Create"
+        }
+      },
+      {
+        "HashCode": 320594104,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.ClientPages.Create",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SquatPal.Server.Pages.ClientPages.Create"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.ClientPages.Create",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.ClientPages",
+          "Common.TypeNameIdentifier": "Create",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -537841387,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.ClientPages.Edit",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Edit"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "ClientId",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "ClientId",
+              "Common.GloballyQualifiedTypeName": "global::System.Int32"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.ClientPages.Edit",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.ClientPages",
+          "Common.TypeNameIdentifier": "Edit"
+        }
+      },
+      {
+        "HashCode": 1070472404,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.ClientPages.Edit",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SquatPal.Server.Pages.ClientPages.Edit"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "ClientId",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "ClientId",
+              "Common.GloballyQualifiedTypeName": "global::System.Int32"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.ClientPages.Edit",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.ClientPages",
+          "Common.TypeNameIdentifier": "Edit",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1712263377,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.ClientPages.Index",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.ClientPages.Index",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.ClientPages",
+          "Common.TypeNameIdentifier": "Index"
+        }
+      },
+      {
+        "HashCode": -1149204039,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.ClientPages.Index",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SquatPal.Server.Pages.ClientPages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.ClientPages.Index",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.ClientPages",
+          "Common.TypeNameIdentifier": "Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 392397196,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.ClientPages.Detail",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Detail"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "ClientId",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "ClientId",
+              "Common.GloballyQualifiedTypeName": "global::System.Int32"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.ClientPages.Detail",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.ClientPages",
+          "Common.TypeNameIdentifier": "Detail"
+        }
+      },
+      {
+        "HashCode": -1342228068,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.ClientPages.Detail",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SquatPal.Server.Pages.ClientPages.Detail"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "ClientId",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "ClientId",
+              "Common.GloballyQualifiedTypeName": "global::System.Int32"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.ClientPages.Detail",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.ClientPages",
+          "Common.TypeNameIdentifier": "Detail",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1812227163,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.ClientPages.WorkoutShared._WorkoutAbilities",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "_WorkoutAbilities"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.ClientPages.WorkoutShared._WorkoutAbilities",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.ClientPages.WorkoutShared",
+          "Common.TypeNameIdentifier": "_WorkoutAbilities"
+        }
+      },
+      {
+        "HashCode": -1333838908,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.ClientPages.WorkoutShared._WorkoutAbilities",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SquatPal.Server.Pages.ClientPages.WorkoutShared._WorkoutAbilities"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.ClientPages.WorkoutShared._WorkoutAbilities",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.ClientPages.WorkoutShared",
+          "Common.TypeNameIdentifier": "_WorkoutAbilities",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1477113078,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.ExercisePlanPages.Create",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Create"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.ExercisePlanPages.Create",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.ExercisePlanPages",
+          "Common.TypeNameIdentifier": "Create"
+        }
+      },
+      {
+        "HashCode": 1113202907,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.ExercisePlanPages.Create",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SquatPal.Server.Pages.ExercisePlanPages.Create"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.ExercisePlanPages.Create",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.ExercisePlanPages",
+          "Common.TypeNameIdentifier": "Create",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1368733414,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.ExercisePlanPages.Delete",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Delete"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "ExerciseId",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "ExerciseId",
+              "Common.GloballyQualifiedTypeName": "global::System.Int32"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.ExercisePlanPages.Delete",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.ExercisePlanPages",
+          "Common.TypeNameIdentifier": "Delete"
+        }
+      },
+      {
+        "HashCode": 1743254987,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.ExercisePlanPages.Delete",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SquatPal.Server.Pages.ExercisePlanPages.Delete"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "ExerciseId",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "ExerciseId",
+              "Common.GloballyQualifiedTypeName": "global::System.Int32"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.ExercisePlanPages.Delete",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.ExercisePlanPages",
+          "Common.TypeNameIdentifier": "Delete",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1444742280,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.ExercisePlanPages.Detail",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Detail"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "ExerciseId",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "ExerciseId",
+              "Common.GloballyQualifiedTypeName": "global::System.Int32"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.ExercisePlanPages.Detail",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.ExercisePlanPages",
+          "Common.TypeNameIdentifier": "Detail"
+        }
+      },
+      {
+        "HashCode": -1013808948,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.ExercisePlanPages.Detail",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SquatPal.Server.Pages.ExercisePlanPages.Detail"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "ExerciseId",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "ExerciseId",
+              "Common.GloballyQualifiedTypeName": "global::System.Int32"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.ExercisePlanPages.Detail",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.ExercisePlanPages",
+          "Common.TypeNameIdentifier": "Detail",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 125651714,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.ExercisePlanPages.Edit",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Edit"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "ExerciseId",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "ExerciseId",
+              "Common.GloballyQualifiedTypeName": "global::System.Int32"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.ExercisePlanPages.Edit",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.ExercisePlanPages",
+          "Common.TypeNameIdentifier": "Edit"
+        }
+      },
+      {
+        "HashCode": -1335845280,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.ExercisePlanPages.Edit",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SquatPal.Server.Pages.ExercisePlanPages.Edit"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "ExerciseId",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "ExerciseId",
+              "Common.GloballyQualifiedTypeName": "global::System.Int32"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.ExercisePlanPages.Edit",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.ExercisePlanPages",
+          "Common.TypeNameIdentifier": "Edit",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 14148520,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.ExercisePlanPages.Index",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.ExercisePlanPages.Index",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.ExercisePlanPages",
+          "Common.TypeNameIdentifier": "Index"
+        }
+      },
+      {
+        "HashCode": 1838411580,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.ExercisePlanPages.Index",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SquatPal.Server.Pages.ExercisePlanPages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.ExercisePlanPages.Index",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.ExercisePlanPages",
+          "Common.TypeNameIdentifier": "Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -176516113,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.Index",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.Index",
+          "Common.TypeNamespace": "SquatPal.Server.Pages",
+          "Common.TypeNameIdentifier": "Index"
+        }
+      },
+      {
+        "HashCode": 1364045794,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.Index",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SquatPal.Server.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.Index",
+          "Common.TypeNamespace": "SquatPal.Server.Pages",
+          "Common.TypeNameIdentifier": "Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -962745934,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.MembershipTierPages.Create",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Create"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.MembershipTierPages.Create",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.MembershipTierPages",
+          "Common.TypeNameIdentifier": "Create"
+        }
+      },
+      {
+        "HashCode": -376042795,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.MembershipTierPages.Create",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SquatPal.Server.Pages.MembershipTierPages.Create"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.MembershipTierPages.Create",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.MembershipTierPages",
+          "Common.TypeNameIdentifier": "Create",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 2030796792,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.MembershipTierPages.Delete",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Delete"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "MembershipTierId",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "MembershipTierId",
+              "Common.GloballyQualifiedTypeName": "global::System.Int32"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.MembershipTierPages.Delete",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.MembershipTierPages",
+          "Common.TypeNameIdentifier": "Delete"
+        }
+      },
+      {
+        "HashCode": 1455408092,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.MembershipTierPages.Delete",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SquatPal.Server.Pages.MembershipTierPages.Delete"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "MembershipTierId",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "MembershipTierId",
+              "Common.GloballyQualifiedTypeName": "global::System.Int32"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.MembershipTierPages.Delete",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.MembershipTierPages",
+          "Common.TypeNameIdentifier": "Delete",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -417702722,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.MembershipTierPages.Detail",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Detail"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "MembershipTierId",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "MembershipTierId",
+              "Common.GloballyQualifiedTypeName": "global::System.Int32"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.MembershipTierPages.Detail",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.MembershipTierPages",
+          "Common.TypeNameIdentifier": "Detail"
+        }
+      },
+      {
+        "HashCode": 511589674,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.MembershipTierPages.Detail",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SquatPal.Server.Pages.MembershipTierPages.Detail"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "MembershipTierId",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "MembershipTierId",
+              "Common.GloballyQualifiedTypeName": "global::System.Int32"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.MembershipTierPages.Detail",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.MembershipTierPages",
+          "Common.TypeNameIdentifier": "Detail",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -563514230,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.MembershipTierPages.Edit",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Edit"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "MembershipTierId",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "MembershipTierId",
+              "Common.GloballyQualifiedTypeName": "global::System.Int32"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.MembershipTierPages.Edit",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.MembershipTierPages",
+          "Common.TypeNameIdentifier": "Edit"
+        }
+      },
+      {
+        "HashCode": -1882795847,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.MembershipTierPages.Edit",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SquatPal.Server.Pages.MembershipTierPages.Edit"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "MembershipTierId",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "MembershipTierId",
+              "Common.GloballyQualifiedTypeName": "global::System.Int32"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.MembershipTierPages.Edit",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.MembershipTierPages",
+          "Common.TypeNameIdentifier": "Edit",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1083184709,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.MembershipTierPages.Index",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.MembershipTierPages.Index",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.MembershipTierPages",
+          "Common.TypeNameIdentifier": "Index"
+        }
+      },
+      {
+        "HashCode": 1318614997,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.MembershipTierPages.Index",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SquatPal.Server.Pages.MembershipTierPages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.MembershipTierPages.Index",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.MembershipTierPages",
+          "Common.TypeNameIdentifier": "Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 63699854,
         "Kind": "Components.Component",
         "Name": "SquatPal.Server.App",
         "AssemblyName": "SquatPal.Server",
@@ -660,7 +873,7 @@
         }
       },
       {
-        "HashCode": -126766748,
+        "HashCode": 1664047867,
         "Kind": "Components.Component",
         "Name": "SquatPal.Server.App",
         "AssemblyName": "SquatPal.Server",
@@ -679,7 +892,7 @@
         }
       },
       {
-        "HashCode": -1015692677,
+        "HashCode": -1083554392,
         "Kind": "Components.Component",
         "Name": "SquatPal.Server.Shared.SurveyPrompt",
         "AssemblyName": "SquatPal.Server",
@@ -708,7 +921,7 @@
         }
       },
       {
-        "HashCode": -1990105201,
+        "HashCode": -1868069924,
         "Kind": "Components.Component",
         "Name": "SquatPal.Server.Shared.SurveyPrompt",
         "AssemblyName": "SquatPal.Server",
@@ -738,44 +951,7 @@
         }
       },
       {
-        "HashCode": -1474969376,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Shared.NavMenu",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Shared.NavMenu",
-          "Common.TypeNamespace": "SquatPal.Server.Shared",
-          "Common.TypeNameIdentifier": "NavMenu"
-        }
-      },
-      {
-        "HashCode": 2099818435,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Shared.NavMenu",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SquatPal.Server.Shared.NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Shared.NavMenu",
-          "Common.TypeNamespace": "SquatPal.Server.Shared",
-          "Common.TypeNameIdentifier": "NavMenu",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -904774294,
+        "HashCode": -920996500,
         "Kind": "Components.Component",
         "Name": "SquatPal.Server.Shared.MainLayout",
         "AssemblyName": "SquatPal.Server",
@@ -806,7 +982,7 @@
         }
       },
       {
-        "HashCode": 1646457296,
+        "HashCode": -518425799,
         "Kind": "Components.Component",
         "Name": "SquatPal.Server.Shared.MainLayout",
         "AssemblyName": "SquatPal.Server",
@@ -838,7 +1014,7 @@
         }
       },
       {
-        "HashCode": -1075860670,
+        "HashCode": 1898333796,
         "Kind": "Components.ChildContent",
         "Name": "SquatPal.Server.Shared.MainLayout.Body",
         "AssemblyName": "SquatPal.Server",
@@ -859,7 +1035,7 @@
         }
       },
       {
-        "HashCode": 34019956,
+        "HashCode": -26666596,
         "Kind": "Components.ChildContent",
         "Name": "SquatPal.Server.Shared.MainLayout.Body",
         "AssemblyName": "SquatPal.Server",
@@ -881,7 +1057,44 @@
         }
       },
       {
-        "HashCode": -1141722145,
+        "HashCode": -1549629953,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Shared.NavMenu",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Shared.NavMenu",
+          "Common.TypeNamespace": "SquatPal.Server.Shared",
+          "Common.TypeNameIdentifier": "NavMenu"
+        }
+      },
+      {
+        "HashCode": -2082450713,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Shared.NavMenu",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SquatPal.Server.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Shared.NavMenu",
+          "Common.TypeNamespace": "SquatPal.Server.Shared",
+          "Common.TypeNameIdentifier": "NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1063905627,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -965,7 +1178,7 @@
         }
       },
       {
-        "HashCode": 1993573167,
+        "HashCode": 1398338389,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -1050,7 +1263,7 @@
         }
       },
       {
-        "HashCode": 1483966324,
+        "HashCode": -781292908,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -1083,7 +1296,7 @@
         }
       },
       {
-        "HashCode": -1021443346,
+        "HashCode": 682471156,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -1117,7 +1330,7 @@
         }
       },
       {
-        "HashCode": 1501528091,
+        "HashCode": 586649667,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -1138,7 +1351,7 @@
         }
       },
       {
-        "HashCode": -1848713254,
+        "HashCode": 1043219962,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -1160,7 +1373,7 @@
         }
       },
       {
-        "HashCode": -1529863343,
+        "HashCode": -1196101333,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -1265,7 +1478,7 @@
         }
       },
       {
-        "HashCode": 489696737,
+        "HashCode": -1417362191,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -1371,7 +1584,7 @@
         }
       },
       {
-        "HashCode": 1153218260,
+        "HashCode": -1037172457,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -1404,7 +1617,7 @@
         }
       },
       {
-        "HashCode": -2067851896,
+        "HashCode": 1656510615,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -1438,7 +1651,7 @@
         }
       },
       {
-        "HashCode": 1425230019,
+        "HashCode": 1288188960,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -1471,7 +1684,7 @@
         }
       },
       {
-        "HashCode": -1342380272,
+        "HashCode": 882696323,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -1505,7 +1718,7 @@
         }
       },
       {
-        "HashCode": 884163465,
+        "HashCode": -709424718,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -1538,7 +1751,7 @@
         }
       },
       {
-        "HashCode": -1084945997,
+        "HashCode": 1728690849,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -1572,7 +1785,7 @@
         }
       },
       {
-        "HashCode": 1583192627,
+        "HashCode": 1892376181,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -1593,7 +1806,7 @@
         }
       },
       {
-        "HashCode": 1136631779,
+        "HashCode": 1094176623,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -1615,7 +1828,7 @@
         }
       },
       {
-        "HashCode": 703156889,
+        "HashCode": -1906834626,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -1646,7 +1859,7 @@
         }
       },
       {
-        "HashCode": -1085565256,
+        "HashCode": -73796670,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -1678,7 +1891,7 @@
         }
       },
       {
-        "HashCode": 1686578174,
+        "HashCode": 23016880,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -1699,7 +1912,7 @@
         }
       },
       {
-        "HashCode": -187350697,
+        "HashCode": 670333162,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -1721,7 +1934,7 @@
         }
       },
       {
-        "HashCode": -907747677,
+        "HashCode": -948583965,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1796,7 +2009,7 @@
         }
       },
       {
-        "HashCode": -999126565,
+        "HashCode": 104460023,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1872,7 +2085,7 @@
         }
       },
       {
-        "HashCode": -2084547774,
+        "HashCode": 1191549799,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1893,7 +2106,7 @@
         }
       },
       {
-        "HashCode": -1530201080,
+        "HashCode": 844672196,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1915,7 +2128,7 @@
         }
       },
       {
-        "HashCode": 1747741535,
+        "HashCode": -438008996,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.DynamicComponent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1957,7 +2170,7 @@
         }
       },
       {
-        "HashCode": -1675322737,
+        "HashCode": 921371994,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.DynamicComponent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -2000,7 +2213,7 @@
         }
       },
       {
-        "HashCode": -1848325320,
+        "HashCode": -264757376,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.LayoutView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -2042,7 +2255,7 @@
         }
       },
       {
-        "HashCode": 1862321339,
+        "HashCode": 952213866,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.LayoutView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -2085,7 +2298,7 @@
         }
       },
       {
-        "HashCode": 1976907914,
+        "HashCode": 1766533925,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.LayoutView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -2106,7 +2319,7 @@
         }
       },
       {
-        "HashCode": -116908767,
+        "HashCode": -1259731695,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.LayoutView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -2128,7 +2341,7 @@
         }
       },
       {
-        "HashCode": 2068668760,
+        "HashCode": 1991026350,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.RouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -2170,7 +2383,7 @@
         }
       },
       {
-        "HashCode": 1751060297,
+        "HashCode": -1677418219,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.RouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -2213,7 +2426,7 @@
         }
       },
       {
-        "HashCode": 1685397164,
+        "HashCode": -6053994,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -2321,7 +2534,7 @@
         }
       },
       {
-        "HashCode": -583772015,
+        "HashCode": 1289909612,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -2430,7 +2643,7 @@
         }
       },
       {
-        "HashCode": 787951329,
+        "HashCode": -1432051942,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.NotFound",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -2451,7 +2664,7 @@
         }
       },
       {
-        "HashCode": -949440340,
+        "HashCode": -1355249333,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.NotFound",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -2473,7 +2686,7 @@
         }
       },
       {
-        "HashCode": 114474033,
+        "HashCode": -793507812,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Found",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -2506,7 +2719,7 @@
         }
       },
       {
-        "HashCode": 1516931184,
+        "HashCode": 273084783,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Found",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -2540,7 +2753,7 @@
         }
       },
       {
-        "HashCode": 2132638928,
+        "HashCode": -700889013,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Navigating",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -2561,7 +2774,7 @@
         }
       },
       {
-        "HashCode": 467617991,
+        "HashCode": 1954757082,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Navigating",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -2583,7 +2796,7 @@
         }
       },
       {
-        "HashCode": -958794182,
+        "HashCode": -1678069051,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.DataAnnotationsValidator",
         "AssemblyName": "Microsoft.AspNetCore.Components.Forms",
@@ -2602,7 +2815,7 @@
         }
       },
       {
-        "HashCode": -1182735517,
+        "HashCode": -2106269063,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.DataAnnotationsValidator",
         "AssemblyName": "Microsoft.AspNetCore.Components.Forms",
@@ -2622,7 +2835,7 @@
         }
       },
       {
-        "HashCode": 2131378856,
+        "HashCode": -1503673259,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2727,7 +2940,7 @@
         }
       },
       {
-        "HashCode": -1088683068,
+        "HashCode": 1573313469,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2833,7 +3046,7 @@
         }
       },
       {
-        "HashCode": 1558931557,
+        "HashCode": -1834994051,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2866,7 +3079,7 @@
         }
       },
       {
-        "HashCode": 1445734884,
+        "HashCode": -455613171,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2900,7 +3113,7 @@
         }
       },
       {
-        "HashCode": -827796071,
+        "HashCode": -29488352,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2972,7 +3185,7 @@
         }
       },
       {
-        "HashCode": 1190458001,
+        "HashCode": -1020787331,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3045,7 +3258,7 @@
         }
       },
       {
-        "HashCode": 1742367429,
+        "HashCode": -1598170925,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3153,7 +3366,7 @@
         }
       },
       {
-        "HashCode": -776777211,
+        "HashCode": -324521156,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3262,7 +3475,7 @@
         }
       },
       {
-        "HashCode": -1814250619,
+        "HashCode": -164133852,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputFile",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3304,7 +3517,7 @@
         }
       },
       {
-        "HashCode": -771293984,
+        "HashCode": -2033453975,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputFile",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3347,7 +3560,7 @@
         }
       },
       {
-        "HashCode": 43628376,
+        "HashCode": -58311721,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3444,7 +3657,7 @@
         }
       },
       {
-        "HashCode": -1339508907,
+        "HashCode": 935574557,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3542,7 +3755,7 @@
         }
       },
       {
-        "HashCode": 727541944,
+        "HashCode": -1550233528,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadio<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3606,7 +3819,7 @@
         }
       },
       {
-        "HashCode": 902368809,
+        "HashCode": 639333332,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadio<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3671,7 +3884,7 @@
         }
       },
       {
-        "HashCode": 1698340462,
+        "HashCode": 1713688269,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3779,7 +3992,7 @@
         }
       },
       {
-        "HashCode": -1018155494,
+        "HashCode": -106249216,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3888,7 +4101,7 @@
         }
       },
       {
-        "HashCode": 1391764207,
+        "HashCode": -827393165,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3909,7 +4122,7 @@
         }
       },
       {
-        "HashCode": 474844678,
+        "HashCode": -1075543636,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3931,7 +4144,7 @@
         }
       },
       {
-        "HashCode": -1588652680,
+        "HashCode": 2144767523,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4029,7 +4242,7 @@
         }
       },
       {
-        "HashCode": -1860582835,
+        "HashCode": 1875520664,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4128,7 +4341,7 @@
         }
       },
       {
-        "HashCode": -1388725838,
+        "HashCode": -1732059332,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4149,7 +4362,7 @@
         }
       },
       {
-        "HashCode": 208942247,
+        "HashCode": 937090132,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4171,7 +4384,7 @@
         }
       },
       {
-        "HashCode": -1329642171,
+        "HashCode": 1326117001,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4243,7 +4456,7 @@
         }
       },
       {
-        "HashCode": 1594230696,
+        "HashCode": -435233410,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4316,7 +4529,7 @@
         }
       },
       {
-        "HashCode": 1866749097,
+        "HashCode": 888877270,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4388,7 +4601,7 @@
         }
       },
       {
-        "HashCode": 723582981,
+        "HashCode": 1991219746,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4461,7 +4674,7 @@
         }
       },
       {
-        "HashCode": -1574777063,
+        "HashCode": 649509218,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationMessage<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4515,7 +4728,7 @@
         }
       },
       {
-        "HashCode": 939013733,
+        "HashCode": 1839491643,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationMessage<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4570,7 +4783,7 @@
         }
       },
       {
-        "HashCode": 1061471541,
+        "HashCode": -1869681576,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationSummary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4611,7 +4824,7 @@
         }
       },
       {
-        "HashCode": 1594191856,
+        "HashCode": 1415137750,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationSummary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4653,7 +4866,7 @@
         }
       },
       {
-        "HashCode": -1598102469,
+        "HashCode": 1957292781,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.FocusOnNavigate",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4694,7 +4907,7 @@
         }
       },
       {
-        "HashCode": -1630215180,
+        "HashCode": 679560232,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.FocusOnNavigate",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4736,7 +4949,7 @@
         }
       },
       {
-        "HashCode": 947159545,
+        "HashCode": 1285949990,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavigationLock",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4778,7 +4991,7 @@
         }
       },
       {
-        "HashCode": 731743333,
+        "HashCode": 494535152,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavigationLock",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4821,7 +5034,7 @@
         }
       },
       {
-        "HashCode": -397450784,
+        "HashCode": -1042343921,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4884,7 +5097,7 @@
         }
       },
       {
-        "HashCode": -2109271539,
+        "HashCode": -1691677335,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4948,7 +5161,7 @@
         }
       },
       {
-        "HashCode": 955559963,
+        "HashCode": -299387712,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4969,7 +5182,7 @@
         }
       },
       {
-        "HashCode": 345901866,
+        "HashCode": -573409469,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4991,7 +5204,7 @@
         }
       },
       {
-        "HashCode": 1250573611,
+        "HashCode": -779811676,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5023,7 +5236,7 @@
         }
       },
       {
-        "HashCode": -550162861,
+        "HashCode": 1254937919,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5056,7 +5269,7 @@
         }
       },
       {
-        "HashCode": -680910939,
+        "HashCode": 1143824591,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5077,7 +5290,7 @@
         }
       },
       {
-        "HashCode": 2133048079,
+        "HashCode": 938353242,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5099,7 +5312,7 @@
         }
       },
       {
-        "HashCode": -1019749968,
+        "HashCode": 1490949430,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadOutlet",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5118,7 +5331,7 @@
         }
       },
       {
-        "HashCode": 1571176640,
+        "HashCode": -375387069,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadOutlet",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5138,7 +5351,7 @@
         }
       },
       {
-        "HashCode": -1313463220,
+        "HashCode": -864252719,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5170,7 +5383,7 @@
         }
       },
       {
-        "HashCode": 852347676,
+        "HashCode": -85609681,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5203,7 +5416,7 @@
         }
       },
       {
-        "HashCode": 1107106159,
+        "HashCode": 1687356036,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5224,7 +5437,7 @@
         }
       },
       {
-        "HashCode": 873206248,
+        "HashCode": -1558320192,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5246,7 +5459,7 @@
         }
       },
       {
-        "HashCode": 986079774,
+        "HashCode": -420094306,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5309,7 +5522,7 @@
         }
       },
       {
-        "HashCode": 970356767,
+        "HashCode": 754866545,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5373,7 +5586,7 @@
         }
       },
       {
-        "HashCode": -228311358,
+        "HashCode": 1006197416,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5394,7 +5607,7 @@
         }
       },
       {
-        "HashCode": 679348736,
+        "HashCode": -905218685,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5416,7 +5629,7 @@
         }
       },
       {
-        "HashCode": -1980703401,
+        "HashCode": -1373049543,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ErrorContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5449,7 +5662,7 @@
         }
       },
       {
-        "HashCode": 1442390115,
+        "HashCode": -1238294581,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ErrorContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5483,7 +5696,7 @@
         }
       },
       {
-        "HashCode": -2049273733,
+        "HashCode": -1728380067,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5615,7 +5828,7 @@
         }
       },
       {
-        "HashCode": 85241512,
+        "HashCode": -197225802,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5748,7 +5961,7 @@
         }
       },
       {
-        "HashCode": -1275382672,
+        "HashCode": -968481221,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5781,7 +5994,7 @@
         }
       },
       {
-        "HashCode": -536513555,
+        "HashCode": -1972243881,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5815,7 +6028,7 @@
         }
       },
       {
-        "HashCode": 1498177808,
+        "HashCode": -855129946,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ItemContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5848,7 +6061,7 @@
         }
       },
       {
-        "HashCode": -287414341,
+        "HashCode": 1801783528,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ItemContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5882,7 +6095,7 @@
         }
       },
       {
-        "HashCode": 259342026,
+        "HashCode": -204103756,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.Placeholder",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5915,7 +6128,7 @@
         }
       },
       {
-        "HashCode": -499131061,
+        "HashCode": 566047802,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.Placeholder",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5949,7 +6162,7 @@
         }
       },
       {
-        "HashCode": 871079759,
+        "HashCode": -228776952,
         "Kind": "Components.EventHandler",
         "Name": "onfocus",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6032,7 +6245,7 @@
         }
       },
       {
-        "HashCode": -1695115909,
+        "HashCode": 1712010686,
         "Kind": "Components.EventHandler",
         "Name": "onblur",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6115,7 +6328,7 @@
         }
       },
       {
-        "HashCode": -932881608,
+        "HashCode": -133930746,
         "Kind": "Components.EventHandler",
         "Name": "onfocusin",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6198,7 +6411,7 @@
         }
       },
       {
-        "HashCode": -1919878747,
+        "HashCode": -1766585498,
         "Kind": "Components.EventHandler",
         "Name": "onfocusout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6281,7 +6494,7 @@
         }
       },
       {
-        "HashCode": -165444878,
+        "HashCode": 357680560,
         "Kind": "Components.EventHandler",
         "Name": "onmouseover",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6364,7 +6577,7 @@
         }
       },
       {
-        "HashCode": -1989024440,
+        "HashCode": -514300957,
         "Kind": "Components.EventHandler",
         "Name": "onmouseout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6447,7 +6660,7 @@
         }
       },
       {
-        "HashCode": -935453644,
+        "HashCode": -1402154141,
         "Kind": "Components.EventHandler",
         "Name": "onmouseleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6530,7 +6743,7 @@
         }
       },
       {
-        "HashCode": -1695363926,
+        "HashCode": 1727614712,
         "Kind": "Components.EventHandler",
         "Name": "onmouseenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6613,7 +6826,7 @@
         }
       },
       {
-        "HashCode": 1864347077,
+        "HashCode": -2117376046,
         "Kind": "Components.EventHandler",
         "Name": "onmousemove",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6696,7 +6909,7 @@
         }
       },
       {
-        "HashCode": -937210449,
+        "HashCode": 1292258524,
         "Kind": "Components.EventHandler",
         "Name": "onmousedown",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6779,7 +6992,7 @@
         }
       },
       {
-        "HashCode": 2038922409,
+        "HashCode": 1752181478,
         "Kind": "Components.EventHandler",
         "Name": "onmouseup",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6862,7 +7075,7 @@
         }
       },
       {
-        "HashCode": 1375188378,
+        "HashCode": 110355543,
         "Kind": "Components.EventHandler",
         "Name": "onclick",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6945,7 +7158,7 @@
         }
       },
       {
-        "HashCode": 293884623,
+        "HashCode": 2043668402,
         "Kind": "Components.EventHandler",
         "Name": "ondblclick",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7028,7 +7241,7 @@
         }
       },
       {
-        "HashCode": -622717461,
+        "HashCode": 895010706,
         "Kind": "Components.EventHandler",
         "Name": "onwheel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7111,7 +7324,7 @@
         }
       },
       {
-        "HashCode": 152812929,
+        "HashCode": 1825340922,
         "Kind": "Components.EventHandler",
         "Name": "onmousewheel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7194,7 +7407,7 @@
         }
       },
       {
-        "HashCode": 1940000297,
+        "HashCode": -28802221,
         "Kind": "Components.EventHandler",
         "Name": "oncontextmenu",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7277,7 +7490,7 @@
         }
       },
       {
-        "HashCode": 760866004,
+        "HashCode": -303065432,
         "Kind": "Components.EventHandler",
         "Name": "ondrag",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7360,7 +7573,7 @@
         }
       },
       {
-        "HashCode": -720621306,
+        "HashCode": -1659553597,
         "Kind": "Components.EventHandler",
         "Name": "ondragend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7443,7 +7656,7 @@
         }
       },
       {
-        "HashCode": 1288453674,
+        "HashCode": 83406703,
         "Kind": "Components.EventHandler",
         "Name": "ondragenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7526,7 +7739,7 @@
         }
       },
       {
-        "HashCode": -418788757,
+        "HashCode": 1297407666,
         "Kind": "Components.EventHandler",
         "Name": "ondragleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7609,7 +7822,7 @@
         }
       },
       {
-        "HashCode": -1448029569,
+        "HashCode": -2144338765,
         "Kind": "Components.EventHandler",
         "Name": "ondragover",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7692,7 +7905,7 @@
         }
       },
       {
-        "HashCode": -321078752,
+        "HashCode": -1390117713,
         "Kind": "Components.EventHandler",
         "Name": "ondragstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7775,7 +7988,7 @@
         }
       },
       {
-        "HashCode": -1942232412,
+        "HashCode": 1796328542,
         "Kind": "Components.EventHandler",
         "Name": "ondrop",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7858,7 +8071,7 @@
         }
       },
       {
-        "HashCode": 1949113522,
+        "HashCode": -832485901,
         "Kind": "Components.EventHandler",
         "Name": "onkeydown",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7941,7 +8154,7 @@
         }
       },
       {
-        "HashCode": 1246011265,
+        "HashCode": 394651958,
         "Kind": "Components.EventHandler",
         "Name": "onkeyup",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8024,7 +8237,7 @@
         }
       },
       {
-        "HashCode": -1423974262,
+        "HashCode": -293873993,
         "Kind": "Components.EventHandler",
         "Name": "onkeypress",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8107,7 +8320,7 @@
         }
       },
       {
-        "HashCode": 1898706608,
+        "HashCode": -1907209975,
         "Kind": "Components.EventHandler",
         "Name": "onchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8190,7 +8403,7 @@
         }
       },
       {
-        "HashCode": 363094788,
+        "HashCode": 242894547,
         "Kind": "Components.EventHandler",
         "Name": "oninput",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8273,7 +8486,7 @@
         }
       },
       {
-        "HashCode": -1255994556,
+        "HashCode": -1100103028,
         "Kind": "Components.EventHandler",
         "Name": "oninvalid",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8356,7 +8569,7 @@
         }
       },
       {
-        "HashCode": 858480845,
+        "HashCode": -1625196327,
         "Kind": "Components.EventHandler",
         "Name": "onreset",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8439,7 +8652,7 @@
         }
       },
       {
-        "HashCode": 368383781,
+        "HashCode": -1001624775,
         "Kind": "Components.EventHandler",
         "Name": "onselect",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8522,7 +8735,7 @@
         }
       },
       {
-        "HashCode": -1273192169,
+        "HashCode": 54650270,
         "Kind": "Components.EventHandler",
         "Name": "onselectstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8605,7 +8818,7 @@
         }
       },
       {
-        "HashCode": 1594976781,
+        "HashCode": -1928739121,
         "Kind": "Components.EventHandler",
         "Name": "onselectionchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8688,7 +8901,7 @@
         }
       },
       {
-        "HashCode": 253243254,
+        "HashCode": -1426423089,
         "Kind": "Components.EventHandler",
         "Name": "onsubmit",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8771,7 +8984,7 @@
         }
       },
       {
-        "HashCode": 200436010,
+        "HashCode": 1114237801,
         "Kind": "Components.EventHandler",
         "Name": "onbeforecopy",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8854,7 +9067,7 @@
         }
       },
       {
-        "HashCode": -1510029696,
+        "HashCode": 2053565065,
         "Kind": "Components.EventHandler",
         "Name": "onbeforecut",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8937,7 +9150,7 @@
         }
       },
       {
-        "HashCode": -1358602738,
+        "HashCode": 1727904965,
         "Kind": "Components.EventHandler",
         "Name": "onbeforepaste",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9020,7 +9233,7 @@
         }
       },
       {
-        "HashCode": -574116063,
+        "HashCode": -1379829052,
         "Kind": "Components.EventHandler",
         "Name": "oncopy",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9103,7 +9316,7 @@
         }
       },
       {
-        "HashCode": 812989187,
+        "HashCode": 1552950731,
         "Kind": "Components.EventHandler",
         "Name": "oncut",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9186,7 +9399,7 @@
         }
       },
       {
-        "HashCode": 134311809,
+        "HashCode": -558983585,
         "Kind": "Components.EventHandler",
         "Name": "onpaste",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9269,7 +9482,7 @@
         }
       },
       {
-        "HashCode": 208044299,
+        "HashCode": -1122626668,
         "Kind": "Components.EventHandler",
         "Name": "ontouchcancel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9352,7 +9565,7 @@
         }
       },
       {
-        "HashCode": -1578196166,
+        "HashCode": 444885393,
         "Kind": "Components.EventHandler",
         "Name": "ontouchend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9435,7 +9648,7 @@
         }
       },
       {
-        "HashCode": 1953749811,
+        "HashCode": -771780790,
         "Kind": "Components.EventHandler",
         "Name": "ontouchmove",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9518,7 +9731,7 @@
         }
       },
       {
-        "HashCode": -1275547630,
+        "HashCode": -1465050328,
         "Kind": "Components.EventHandler",
         "Name": "ontouchstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9601,7 +9814,7 @@
         }
       },
       {
-        "HashCode": -1277601805,
+        "HashCode": -1952507417,
         "Kind": "Components.EventHandler",
         "Name": "ontouchenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9684,7 +9897,7 @@
         }
       },
       {
-        "HashCode": -1928449508,
+        "HashCode": -1564838636,
         "Kind": "Components.EventHandler",
         "Name": "ontouchleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9767,7 +9980,7 @@
         }
       },
       {
-        "HashCode": -2085413073,
+        "HashCode": 234440008,
         "Kind": "Components.EventHandler",
         "Name": "ongotpointercapture",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9850,7 +10063,7 @@
         }
       },
       {
-        "HashCode": 762238809,
+        "HashCode": -868273886,
         "Kind": "Components.EventHandler",
         "Name": "onlostpointercapture",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9933,7 +10146,7 @@
         }
       },
       {
-        "HashCode": 1411203225,
+        "HashCode": 1601219413,
         "Kind": "Components.EventHandler",
         "Name": "onpointercancel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10016,7 +10229,7 @@
         }
       },
       {
-        "HashCode": -1922605960,
+        "HashCode": -388786605,
         "Kind": "Components.EventHandler",
         "Name": "onpointerdown",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10099,7 +10312,7 @@
         }
       },
       {
-        "HashCode": -131358781,
+        "HashCode": 1166378625,
         "Kind": "Components.EventHandler",
         "Name": "onpointerenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10182,7 +10395,7 @@
         }
       },
       {
-        "HashCode": 1920920759,
+        "HashCode": 1832166813,
         "Kind": "Components.EventHandler",
         "Name": "onpointerleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10265,7 +10478,7 @@
         }
       },
       {
-        "HashCode": -782667454,
+        "HashCode": 1079544806,
         "Kind": "Components.EventHandler",
         "Name": "onpointermove",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10348,7 +10561,7 @@
         }
       },
       {
-        "HashCode": 1471182931,
+        "HashCode": 184629266,
         "Kind": "Components.EventHandler",
         "Name": "onpointerout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10431,7 +10644,7 @@
         }
       },
       {
-        "HashCode": -1508196577,
+        "HashCode": 471155108,
         "Kind": "Components.EventHandler",
         "Name": "onpointerover",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10514,7 +10727,7 @@
         }
       },
       {
-        "HashCode": -1063685612,
+        "HashCode": 67979607,
         "Kind": "Components.EventHandler",
         "Name": "onpointerup",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10597,7 +10810,7 @@
         }
       },
       {
-        "HashCode": 441529193,
+        "HashCode": -573432168,
         "Kind": "Components.EventHandler",
         "Name": "oncanplay",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10680,7 +10893,7 @@
         }
       },
       {
-        "HashCode": -617044459,
+        "HashCode": -93685065,
         "Kind": "Components.EventHandler",
         "Name": "oncanplaythrough",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10763,7 +10976,7 @@
         }
       },
       {
-        "HashCode": -483719633,
+        "HashCode": -1171677767,
         "Kind": "Components.EventHandler",
         "Name": "oncuechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10846,7 +11059,7 @@
         }
       },
       {
-        "HashCode": 1258421200,
+        "HashCode": -545260275,
         "Kind": "Components.EventHandler",
         "Name": "ondurationchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10929,7 +11142,7 @@
         }
       },
       {
-        "HashCode": -1854547438,
+        "HashCode": 526146044,
         "Kind": "Components.EventHandler",
         "Name": "onemptied",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11012,7 +11225,7 @@
         }
       },
       {
-        "HashCode": 700219429,
+        "HashCode": -1243965217,
         "Kind": "Components.EventHandler",
         "Name": "onpause",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11095,7 +11308,7 @@
         }
       },
       {
-        "HashCode": -1631073492,
+        "HashCode": 1386514441,
         "Kind": "Components.EventHandler",
         "Name": "onplay",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11178,7 +11391,7 @@
         }
       },
       {
-        "HashCode": 401260542,
+        "HashCode": 1923157203,
         "Kind": "Components.EventHandler",
         "Name": "onplaying",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11261,7 +11474,7 @@
         }
       },
       {
-        "HashCode": 2059482367,
+        "HashCode": -1506184442,
         "Kind": "Components.EventHandler",
         "Name": "onratechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11344,7 +11557,7 @@
         }
       },
       {
-        "HashCode": -1295448392,
+        "HashCode": 174074656,
         "Kind": "Components.EventHandler",
         "Name": "onseeked",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11427,7 +11640,7 @@
         }
       },
       {
-        "HashCode": 1650221507,
+        "HashCode": -11973475,
         "Kind": "Components.EventHandler",
         "Name": "onseeking",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11510,7 +11723,7 @@
         }
       },
       {
-        "HashCode": -887817599,
+        "HashCode": 1067166594,
         "Kind": "Components.EventHandler",
         "Name": "onstalled",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11593,7 +11806,7 @@
         }
       },
       {
-        "HashCode": -352453644,
+        "HashCode": -1848331777,
         "Kind": "Components.EventHandler",
         "Name": "onstop",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11676,7 +11889,7 @@
         }
       },
       {
-        "HashCode": -1090739022,
+        "HashCode": -859359281,
         "Kind": "Components.EventHandler",
         "Name": "onsuspend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11759,7 +11972,7 @@
         }
       },
       {
-        "HashCode": 2094755210,
+        "HashCode": -2069926581,
         "Kind": "Components.EventHandler",
         "Name": "ontimeupdate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11842,7 +12055,7 @@
         }
       },
       {
-        "HashCode": -398489606,
+        "HashCode": -512685745,
         "Kind": "Components.EventHandler",
         "Name": "onvolumechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11925,7 +12138,7 @@
         }
       },
       {
-        "HashCode": -1555243685,
+        "HashCode": -1083968178,
         "Kind": "Components.EventHandler",
         "Name": "onwaiting",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12008,7 +12221,7 @@
         }
       },
       {
-        "HashCode": -880668716,
+        "HashCode": 426045085,
         "Kind": "Components.EventHandler",
         "Name": "onloadstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12091,7 +12304,7 @@
         }
       },
       {
-        "HashCode": -1434021641,
+        "HashCode": 458162401,
         "Kind": "Components.EventHandler",
         "Name": "ontimeout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12174,7 +12387,7 @@
         }
       },
       {
-        "HashCode": 325527719,
+        "HashCode": -1378596220,
         "Kind": "Components.EventHandler",
         "Name": "onabort",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12257,7 +12470,7 @@
         }
       },
       {
-        "HashCode": 783174965,
+        "HashCode": -1088642300,
         "Kind": "Components.EventHandler",
         "Name": "onload",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12340,7 +12553,7 @@
         }
       },
       {
-        "HashCode": -722295355,
+        "HashCode": 1338141695,
         "Kind": "Components.EventHandler",
         "Name": "onloadend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12423,7 +12636,7 @@
         }
       },
       {
-        "HashCode": -1561809163,
+        "HashCode": -1976345267,
         "Kind": "Components.EventHandler",
         "Name": "onprogress",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12506,7 +12719,7 @@
         }
       },
       {
-        "HashCode": 1833083179,
+        "HashCode": 1721370096,
         "Kind": "Components.EventHandler",
         "Name": "onerror",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12589,7 +12802,7 @@
         }
       },
       {
-        "HashCode": 1671168290,
+        "HashCode": 1808166926,
         "Kind": "Components.EventHandler",
         "Name": "onactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12672,7 +12885,7 @@
         }
       },
       {
-        "HashCode": -1850306854,
+        "HashCode": -1214096459,
         "Kind": "Components.EventHandler",
         "Name": "onbeforeactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12755,7 +12968,7 @@
         }
       },
       {
-        "HashCode": 1109554586,
+        "HashCode": 1483149120,
         "Kind": "Components.EventHandler",
         "Name": "onbeforedeactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12838,7 +13051,7 @@
         }
       },
       {
-        "HashCode": 1965922764,
+        "HashCode": 1459329056,
         "Kind": "Components.EventHandler",
         "Name": "ondeactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12921,7 +13134,7 @@
         }
       },
       {
-        "HashCode": 1739836460,
+        "HashCode": -1753014575,
         "Kind": "Components.EventHandler",
         "Name": "onended",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13004,7 +13217,7 @@
         }
       },
       {
-        "HashCode": 1772451526,
+        "HashCode": -77514654,
         "Kind": "Components.EventHandler",
         "Name": "onfullscreenchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13087,7 +13300,7 @@
         }
       },
       {
-        "HashCode": 147460778,
+        "HashCode": 956143045,
         "Kind": "Components.EventHandler",
         "Name": "onfullscreenerror",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13170,7 +13383,7 @@
         }
       },
       {
-        "HashCode": -1003403163,
+        "HashCode": 903815473,
         "Kind": "Components.EventHandler",
         "Name": "onloadeddata",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13253,7 +13466,7 @@
         }
       },
       {
-        "HashCode": 1522731015,
+        "HashCode": -1943005363,
         "Kind": "Components.EventHandler",
         "Name": "onloadedmetadata",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13336,7 +13549,7 @@
         }
       },
       {
-        "HashCode": 463836528,
+        "HashCode": -1447868362,
         "Kind": "Components.EventHandler",
         "Name": "onpointerlockchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13419,7 +13632,7 @@
         }
       },
       {
-        "HashCode": -90978082,
+        "HashCode": -1259008655,
         "Kind": "Components.EventHandler",
         "Name": "onpointerlockerror",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13502,7 +13715,7 @@
         }
       },
       {
-        "HashCode": 2108843283,
+        "HashCode": -545647789,
         "Kind": "Components.EventHandler",
         "Name": "onreadystatechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13585,7 +13798,7 @@
         }
       },
       {
-        "HashCode": 1491458429,
+        "HashCode": -1171845703,
         "Kind": "Components.EventHandler",
         "Name": "onscroll",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13668,7 +13881,7 @@
         }
       },
       {
-        "HashCode": 1628711142,
+        "HashCode": 1445299603,
         "Kind": "Components.EventHandler",
         "Name": "ontoggle",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13751,7 +13964,7 @@
         }
       },
       {
-        "HashCode": 2098838384,
+        "HashCode": -836554341,
         "Kind": "Components.Splat",
         "Name": "Attributes",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13790,7 +14003,7 @@
         }
       },
       {
-        "HashCode": 1917805527,
+        "HashCode": -1256787567,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.Razor",
@@ -14107,7 +14320,7 @@
         }
       },
       {
-        "HashCode": 1659574306,
+        "HashCode": 1458282010,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14306,7 +14519,7 @@
         }
       },
       {
-        "HashCode": 141815613,
+        "HashCode": -798664175,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.CacheTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14435,7 +14648,7 @@
         }
       },
       {
-        "HashCode": 1153134072,
+        "HashCode": 227930462,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ComponentTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14492,7 +14705,7 @@
         }
       },
       {
-        "HashCode": 1773444453,
+        "HashCode": 1138246316,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.DistributedCacheTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14626,7 +14839,7 @@
         }
       },
       {
-        "HashCode": -988812411,
+        "HashCode": -2113981972,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.EnvironmentTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14674,7 +14887,7 @@
         }
       },
       {
-        "HashCode": 895063534,
+        "HashCode": 12394335,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.FormActionTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15093,7 +15306,7 @@
         }
       },
       {
-        "HashCode": -1228642378,
+        "HashCode": -1906893563,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15197,7 +15410,7 @@
         }
       },
       {
-        "HashCode": -1050149311,
+        "HashCode": 693163855,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ImageTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15245,7 +15458,7 @@
         }
       },
       {
-        "HashCode": 865246076,
+        "HashCode": 1880195569,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15317,7 +15530,7 @@
         }
       },
       {
-        "HashCode": 376514146,
+        "HashCode": 1656876823,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.LabelTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15352,7 +15565,7 @@
         }
       },
       {
-        "HashCode": -721534592,
+        "HashCode": -1621204104,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.LinkTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15550,7 +15763,7 @@
         }
       },
       {
-        "HashCode": -2116931008,
+        "HashCode": -1662021013,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.OptionTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15580,7 +15793,7 @@
         }
       },
       {
-        "HashCode": 1588222202,
+        "HashCode": 2143015320,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15663,7 +15876,7 @@
         }
       },
       {
-        "HashCode": -987127556,
+        "HashCode": 710888038,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.PersistComponentStateTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15694,7 +15907,7 @@
         }
       },
       {
-        "HashCode": -1808664515,
+        "HashCode": -1062007747,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ScriptTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15849,7 +16062,7 @@
         }
       },
       {
-        "HashCode": 1918635250,
+        "HashCode": -1164836658,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.SelectTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15910,7 +16123,7 @@
         }
       },
       {
-        "HashCode": 1533598837,
+        "HashCode": -206645960,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.TextAreaTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15954,7 +16167,7 @@
         }
       },
       {
-        "HashCode": -699119577,
+        "HashCode": 205168096,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ValidationMessageTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15989,7 +16202,7 @@
         }
       },
       {
-        "HashCode": 309077242,
+        "HashCode": 1155141366,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ValidationSummaryTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -16025,7 +16238,7 @@
         }
       },
       {
-        "HashCode": -5807772,
+        "HashCode": -81211062,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16121,7 +16334,7 @@
         }
       },
       {
-        "HashCode": 1160721800,
+        "HashCode": -1463246415,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16243,7 +16456,7 @@
         }
       },
       {
-        "HashCode": 1808043803,
+        "HashCode": -1466866591,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16365,7 +16578,7 @@
         }
       },
       {
-        "HashCode": -1487224103,
+        "HashCode": 739562651,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16498,7 +16711,7 @@
         }
       },
       {
-        "HashCode": 1027979183,
+        "HashCode": 1214299217,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16631,7 +16844,7 @@
         }
       },
       {
-        "HashCode": -100450727,
+        "HashCode": 39398232,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16764,7 +16977,7 @@
         }
       },
       {
-        "HashCode": 2091062278,
+        "HashCode": -1872582616,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16897,7 +17110,7 @@
         }
       },
       {
-        "HashCode": -1308700610,
+        "HashCode": 390754589,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17030,7 +17243,7 @@
         }
       },
       {
-        "HashCode": 809839803,
+        "HashCode": -1312703329,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17163,7 +17376,7 @@
         }
       },
       {
-        "HashCode": -872128859,
+        "HashCode": -1832938653,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17296,7 +17509,7 @@
         }
       },
       {
-        "HashCode": 399529374,
+        "HashCode": 145829190,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17429,7 +17642,7 @@
         }
       },
       {
-        "HashCode": -791482321,
+        "HashCode": 431940690,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17562,7 +17775,7 @@
         }
       },
       {
-        "HashCode": 1119235810,
+        "HashCode": 1241375846,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17695,7 +17908,7 @@
         }
       },
       {
-        "HashCode": 1144555335,
+        "HashCode": -1910903201,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17828,7 +18041,7 @@
         }
       },
       {
-        "HashCode": -1528701367,
+        "HashCode": 639884125,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17961,7 +18174,7 @@
         }
       },
       {
-        "HashCode": 970872278,
+        "HashCode": -599170009,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -18083,7 +18296,7 @@
         }
       },
       {
-        "HashCode": -1151108118,
+        "HashCode": 1443464979,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -18205,7 +18418,7 @@
         }
       },
       {
-        "HashCode": 1862585019,
+        "HashCode": 678528076,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18292,7 +18505,7 @@
         }
       },
       {
-        "HashCode": -1283992879,
+        "HashCode": 252010323,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18380,7 +18593,7 @@
         }
       },
       {
-        "HashCode": -948163585,
+        "HashCode": 2034167354,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18467,7 +18680,7 @@
         }
       },
       {
-        "HashCode": 864976794,
+        "HashCode": -1021835909,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18555,7 +18768,7 @@
         }
       },
       {
-        "HashCode": 2075334428,
+        "HashCode": 1679994049,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18642,7 +18855,7 @@
         }
       },
       {
-        "HashCode": 393331105,
+        "HashCode": -1348767653,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18730,7 +18943,7 @@
         }
       },
       {
-        "HashCode": 845341737,
+        "HashCode": -23448361,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18817,7 +19030,7 @@
         }
       },
       {
-        "HashCode": -692984653,
+        "HashCode": 1220475611,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18905,7 +19118,7 @@
         }
       },
       {
-        "HashCode": 1491210782,
+        "HashCode": -1126019811,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18992,7 +19205,7 @@
         }
       },
       {
-        "HashCode": 421779931,
+        "HashCode": -615658869,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -19080,7 +19293,7 @@
         }
       },
       {
-        "HashCode": 555653487,
+        "HashCode": -1709165273,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -19167,7 +19380,7 @@
         }
       },
       {
-        "HashCode": 2032499163,
+        "HashCode": -1956233862,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -19255,7 +19468,7 @@
         }
       },
       {
-        "HashCode": -461131041,
+        "HashCode": 1773497602,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -19342,7 +19555,7 @@
         }
       },
       {
-        "HashCode": 62603943,
+        "HashCode": -1480528888,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -19430,7 +19643,7 @@
         }
       },
       {
-        "HashCode": 1734215409,
+        "HashCode": 107464712,
         "Kind": "Components.Ref",
         "Name": "Ref",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -19469,7 +19682,7 @@
         }
       },
       {
-        "HashCode": -27681745,
+        "HashCode": 828528789,
         "Kind": "Components.Key",
         "Name": "Key",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -19513,9 +19726,9 @@
   "RootNamespace": "SquatPal.Server",
   "Documents": [
     {
-      "FilePath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal/SquatPal.Server/Pages/Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
-      "FileKind": "mvc"
+      "FilePath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal/SquatPal.Server/Pages/ExercisePlanPages/Delete.razor",
+      "TargetPath": "Pages\\ExercisePlanPages\\Delete.razor",
+      "FileKind": "component"
     },
     {
       "FilePath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal/SquatPal.Server/Pages/AdminUserPages/Create.razor",
@@ -19523,28 +19736,8 @@
       "FileKind": "component"
     },
     {
-      "FilePath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal/SquatPal.Server/Pages/ClientPages/Edit.razor",
-      "TargetPath": "Pages\\ClientPages\\Edit.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal/SquatPal.Server/App.razor",
-      "TargetPath": "App.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal/SquatPal.Server/Shared/SurveyPrompt.razor",
-      "TargetPath": "Shared\\SurveyPrompt.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal/SquatPal.Server/Pages/MembershipTierPages/Delete.razor",
-      "TargetPath": "Pages\\MembershipTierPages\\Delete.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal/SquatPal.Server/Pages/Index.razor",
-      "TargetPath": "Pages\\Index.razor",
+      "FilePath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal/SquatPal.Server/Pages/ClientPages/Detail.razor",
+      "TargetPath": "Pages\\ClientPages\\Detail.razor",
       "FileKind": "component"
     },
     {
@@ -19553,23 +19746,23 @@
       "FileKind": "component"
     },
     {
-      "FilePath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal/SquatPal.Server/Pages/ClientPages/Create.razor",
-      "TargetPath": "Pages\\ClientPages\\Create.razor",
+      "FilePath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal/SquatPal.Server/Pages/MembershipTierPages/Create.razor",
+      "TargetPath": "Pages\\MembershipTierPages\\Create.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal/SquatPal.Server/Pages/ExercisePlanPages/Edit.razor",
-      "TargetPath": "Pages\\ExercisePlanPages\\Edit.razor",
+      "FilePath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal/SquatPal.Server/Pages/Index.razor",
+      "TargetPath": "Pages\\Index.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal/SquatPal.Server/_Imports.razor",
-      "TargetPath": "_Imports.razor",
-      "FileKind": "componentImport"
+      "FilePath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal/SquatPal.Server/Pages/Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal/SquatPal.Server/Pages/MembershipTierPages/Index.razor",
-      "TargetPath": "Pages\\MembershipTierPages\\Index.razor",
+      "FilePath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal/SquatPal.Server/Shared/SurveyPrompt.razor",
+      "TargetPath": "Shared\\SurveyPrompt.razor",
       "FileKind": "component"
     },
     {
@@ -19578,8 +19771,33 @@
       "FileKind": "component"
     },
     {
-      "FilePath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal/SquatPal.Server/Pages/MembershipTierPages/Detail.razor",
-      "TargetPath": "Pages\\MembershipTierPages\\Detail.razor",
+      "FilePath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal/SquatPal.Server/_Imports.razor",
+      "TargetPath": "_Imports.razor",
+      "FileKind": "componentImport"
+    },
+    {
+      "FilePath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal/SquatPal.Server/Pages/ClientPages/Create.razor",
+      "TargetPath": "Pages\\ClientPages\\Create.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal/SquatPal.Server/Pages/_Host.cshtml",
+      "TargetPath": "Pages\\_Host.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal/SquatPal.Server/Pages/ClientPages/WorkoutShared/_WorkoutAbilities.razor",
+      "TargetPath": "Pages\\ClientPages\\WorkoutShared\\_WorkoutAbilities.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal/SquatPal.Server/Pages/AdminUserPages/Index.razor",
+      "TargetPath": "Pages\\AdminUserPages\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal/SquatPal.Server/Pages/ClientPages/Edit.razor",
+      "TargetPath": "Pages\\ClientPages\\Edit.razor",
       "FileKind": "component"
     },
     {
@@ -19588,9 +19806,29 @@
       "FileKind": "component"
     },
     {
-      "FilePath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal/SquatPal.Server/Pages/_Host.cshtml",
-      "TargetPath": "Pages\\_Host.cshtml",
-      "FileKind": "mvc"
+      "FilePath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal/SquatPal.Server/App.razor",
+      "TargetPath": "App.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal/SquatPal.Server/Pages/ExercisePlanPages/Edit.razor",
+      "TargetPath": "Pages\\ExercisePlanPages\\Edit.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal/SquatPal.Server/Pages/ClientPages/Index.razor",
+      "TargetPath": "Pages\\ClientPages\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal/SquatPal.Server/Pages/MembershipTierPages/Detail.razor",
+      "TargetPath": "Pages\\MembershipTierPages\\Detail.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal/SquatPal.Server/Pages/MembershipTierPages/Delete.razor",
+      "TargetPath": "Pages\\MembershipTierPages\\Delete.razor",
+      "FileKind": "component"
     },
     {
       "FilePath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal/SquatPal.Server/Pages/ExercisePlanPages/Index.razor",
@@ -19603,33 +19841,13 @@
       "FileKind": "component"
     },
     {
-      "FilePath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal/SquatPal.Server/Pages/ExercisePlanPages/Delete.razor",
-      "TargetPath": "Pages\\ExercisePlanPages\\Delete.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal/SquatPal.Server/Pages/ClientPages/Detail.razor",
-      "TargetPath": "Pages\\ClientPages\\Detail.razor",
+      "FilePath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal/SquatPal.Server/Pages/MembershipTierPages/Index.razor",
+      "TargetPath": "Pages\\MembershipTierPages\\Index.razor",
       "FileKind": "component"
     },
     {
       "FilePath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal/SquatPal.Server/Pages/ExercisePlanPages/Create.razor",
       "TargetPath": "Pages\\ExercisePlanPages\\Create.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal/SquatPal.Server/Pages/MembershipTierPages/Create.razor",
-      "TargetPath": "Pages\\MembershipTierPages\\Create.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal/SquatPal.Server/Pages/ClientPages/Index.razor",
-      "TargetPath": "Pages\\ClientPages\\Index.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal/SquatPal.Server/Pages/AdminUserPages/Index.razor",
-      "TargetPath": "Pages\\AdminUserPages\\Index.razor",
       "FileKind": "component"
     }
   ],

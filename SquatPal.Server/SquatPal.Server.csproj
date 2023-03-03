@@ -22,4 +22,8 @@
     <UserSecretsId>83098385-2d24-4242-ac01-aa7694989d9e</UserSecretsId>
   </PropertyGroup>
 
+  <PropertyGroup>
+    <EmitCompilerGeneratedFiles>true</EmitCompilerGeneratedFiles>   
+  </PropertyGroup>
+
 </Project>

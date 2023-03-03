@@ -1,0 +1,45 @@
+@page "/membership"
+
+@inject IMembershipTierService _membershipService
+
+<a href="/membership/create" class="btn btn-primary">Create a Membership Tier</a>
+
+@if (_memberships.Count() > 0)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Membership Tier ID</th>
+                <th>Name</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var membership in _memberships)
+            {
+                <tr>
+                    <td>@membership.MembershipTierId</td>
+                    <td>@membership.Name</td>
+                    <td>@membership.Price</td>
+                    <td>
+                        <a href="/membership/edit/@membership.MembershipTierId" class="btn btn-success">Edit</a>
+                        <a href="/membership/detail/@membership.MembershipTierId" class="btn btn-warning">Details</a>
+                        <a href="/membership/delete/@membership.MembershipTierId" class="btn btn-danger">Delete</a>
+                    </td>
+                </tr>   
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p class="text text-danger">There are no available Membership Tiers to display.</p>
+}
+
+@code{
+    private List<MembershipTierListItem> _memberships = new();
+    protected override async Task OnInitializedAsync()
+    {
+        _memberships = await _membershipService.GetMembershipTiers();
+    }
+}

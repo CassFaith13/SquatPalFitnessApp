@@ -1,10 +1,15 @@
-@* @page "/adminUser"
+@page "/login"
 
 @inject IAdminUserService _adminService
 
+<h1 class="text text-primary">Admin Log In</h1>
+
+<a href="/adminUser/signin" class="btn btn-primary">Log In</a>
 <a href="/adminUser/create" class="btn btn-primary">Create an Admin User</a>
 
-@if (Admins.Count()>0)
+@* I want to be able to get admins if I'm already logged in so fix this *@
+
+@* @if (Admins.Count()>0)
 {
     <table class="table">
         <thead>

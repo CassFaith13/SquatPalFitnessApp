@@ -1,0 +1,48 @@
+@page "/membership/create"
+
+<h1 class="text text-primary">Create a Membership Tier</h1>
+
+@inject IMembershipTierService _membershipService
+@inject NavigationManager _navManager
+
+@if (errorMessage != null)
+{
+    <h5 class="text-danger">@errorMessage</h5>
+}
+else
+{
+    <EditForm Model="@model" OnValidSubmit="@HandleSubmit">
+        <DataAnnotationsValidator/>
+        <ValidationSummary/>
+        <div class="form-group">
+            <label>Name</label>
+            <InputText class="form-control" @bind-Value="@model.Name"></InputText>
+        </div>
+        <div class="form-group">
+            <label>Price</label>
+            <InputNumber class="form-control" @bind-Value="@model.Price"></InputNumber>
+        </div>
+        <div class="form-group">
+            <label>Benefits</label>
+            <InputTextArea class="form-control" @bind-Value="@model.Benefits"></InputTextArea>
+        </div>
+        <button type="submit" class="btn btn-primary btn-block mt-5">Submit</button>
+    </EditForm>
+}
+
+@code{
+    private MembershipTierCreate model = new();
+    private string? errorMessage;
+    public async Task HandleSubmit()
+    {
+        var isSuccess = await _membershipService.CreateMembershipTier(model);
+        if (isSuccess)
+        {
+            _navManager.NavigateTo("/membership");
+        }
+        else
+        {
+            errorMessage = "Unable to create new Membership Tier. Please try again.";
+        }
+    }
+}

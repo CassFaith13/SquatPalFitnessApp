@@ -1,0 +1,48 @@
+@page "/exercise/create"
+
+<h1 class="text text-primary">Create an Exercise</h1>
+
+@inject IExercisePlanService _exerciseService
+@inject NavigationManager _navManager
+
+@if (errorMessage != null)
+{
+    <h5 class="text-danger">@errorMessage</h5>
+}
+else
+{
+    <EditForm Model="@model" OnValidSubmit="@HandleSubmit">
+        <DataAnnotationsValidator/>
+        <ValidationSummary/>
+        <div class="form-group">
+            <label>Name</label>
+            <InputText class="form-control" @bind-Value="@model.Name"></InputText>
+        </div>
+        <div class="form-group">
+            <label>Type of Exercise</label>
+            <InputText class="form-control" @bind-Value="@model.ExerciseType"></InputText>
+        </div>
+        <div class="form-group">
+            <label>Muscles Activated</label>
+            <InputText class="form-control" @bind-Value="@model.MusclesActivated"></InputText>
+        </div>
+        <button type="submit" class="btn btn-primary btn-block mt-5">Submit</button>
+    </EditForm>
+}
+
+@code{
+    private ExercisePlanCreate model = new();
+    private string? errorMessage;
+    public async Task HandleSubmit()
+    {
+        var isSuccess = await _exerciseService.CreateExercisePlan(model);
+        if (isSuccess)
+        {
+            _navManager.NavigateTo("/exercise");
+        }
+        else
+        {
+            errorMessage = "Unable to create new Exercise. Please try again.";
+        }
+    }
+}
