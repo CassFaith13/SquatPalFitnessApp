@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquatPal.Data", "SquatPal.Data\SquatPal.Data.csproj", "{EB024597-4520-4DFD-BB04-0571E4AF3607}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquatPal.Models", "SquatPal.Models\SquatPal.Models.csproj", "{36C1C848-964D-41E3-9869-62717468F868}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquatPal.Server", "SquatPal.Server\SquatPal.Server.csproj", "{789502A0-3F84-47C6-9CA0-84B5B9E83D37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquatPal.Services", "SquatPal.Services\SquatPal.Services.csproj", "{2A8A1A69-E766-4A16-A5BE-91698ECC10B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB024597-4520-4DFD-BB04-0571E4AF3607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB024597-4520-4DFD-BB04-0571E4AF3607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB024597-4520-4DFD-BB04-0571E4AF3607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB024597-4520-4DFD-BB04-0571E4AF3607}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36C1C848-964D-41E3-9869-62717468F868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36C1C848-964D-41E3-9869-62717468F868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36C1C848-964D-41E3-9869-62717468F868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36C1C848-964D-41E3-9869-62717468F868}.Release|Any CPU.Build.0 = Release|Any CPU
+		{789502A0-3F84-47C6-9CA0-84B5B9E83D37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{789502A0-3F84-47C6-9CA0-84B5B9E83D37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{789502A0-3F84-47C6-9CA0-84B5B9E83D37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{789502A0-3F84-47C6-9CA0-84B5B9E83D37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A8A1A69-E766-4A16-A5BE-91698ECC10B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A8A1A69-E766-4A16-A5BE-91698ECC10B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A8A1A69-E766-4A16-A5BE-91698ECC10B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A8A1A69-E766-4A16-A5BE-91698ECC10B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

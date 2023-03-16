@@ -1,0 +1,66 @@
+@page "/membership/edit/{MembershipTierId:int}"
+
+<h1 class="text text-primary">Update Membership Tier</h1>
+
+@inject IMembershipTierService _membershipService
+@inject NavigationManager _navManager
+
+@if (errorMessage != null)
+{
+    <h5 class="text-danger">@errorMessage</h5>
+}
+else
+{
+    <EditForm Model="@model" OnValidSubmit="@HandleSubmit">
+        <DataAnnotationsValidator/>
+        <ValidationSummary/>
+        <div class="form-group">
+            <label>Membership Tier Level</label>
+            <InputText class="form-control" @bind-Value="model.Name"></InputText>
+        </div>
+        <div class="form-group">
+            <label>Monthly Price</label>
+            <InputNumber class="form-control" @bind-Value="model.Price"></InputNumber>
+        </div>
+        <div class="form-group">
+            <label>Membership Tier Benefits</label>
+            <InputText class="form-control" @bind-Value="model.Benefits"></InputText>
+        </div>
+        <div class="form-group">
+            <button type="submit" class="btn btn-primary btn-block mt-5">Submit</button>
+        </div>
+        <div class="form-group mt-2">
+            <a href="/membership" class="btn btn-secondary">Back to Index</a>
+        </div>
+    </EditForm>
+}
+
+@code{
+    [Parameter]
+    public int MembershipTierId { get; set; }
+    private MembershipTierEdit model = new();
+    private MembershipTierDetail membershipTierDetail = new();
+    private string? errorMessage;
+    protected override async Task OnInitializedAsync()
+    {
+        membershipTierDetail = await _membershipService.GetMembershipTier(MembershipTierId);
+        if (membershipTierDetail != null)
+        {
+            model.Name = membershipTierDetail.Name;
+            model.Price = membershipTierDetail.Price;
+            model.Benefits = membershipTierDetail.Benefits;
+        }
+    }
+    public async Task HandleSubmit()
+    {
+        var isSuccess = await _membershipService.UpdateMembershipTier(MembershipTierId, model);
+        if (isSuccess)
+        {
+            _navManager.NavigateTo("/membership");
+        }
+        else
+        {
+            errorMessage = "Unable to update Membership Tier. Please try again.";
+        }
+    }
+}

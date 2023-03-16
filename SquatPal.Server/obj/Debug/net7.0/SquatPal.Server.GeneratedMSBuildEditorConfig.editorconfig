@@ -1,0 +1,145 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SquatPal.Server
+build_property.RootNamespace = SquatPal.Server
+build_property.ProjectDir = /Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/Pages/ClientPages/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2xpZW50UGFnZXMvQ3JlYXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/Pages/ClientPages/Detail.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2xpZW50UGFnZXMvRGV0YWlsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/Pages/ClientPages/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2xpZW50UGFnZXMvRWRpdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/Pages/ClientPages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2xpZW50UGFnZXMvSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/Pages/ExercisePlanPages/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXhlcmNpc2VQbGFuUGFnZXMvQ3JlYXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/Pages/ExercisePlanPages/Delete.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXhlcmNpc2VQbGFuUGFnZXMvRGVsZXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/Pages/ExercisePlanPages/Detail.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXhlcmNpc2VQbGFuUGFnZXMvRGV0YWlsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/Pages/ExercisePlanPages/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXhlcmNpc2VQbGFuUGFnZXMvRWRpdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/Pages/ExercisePlanPages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXhlcmNpc2VQbGFuUGFnZXMvSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/Pages/MembershipTierPages/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTWVtYmVyc2hpcFRpZXJQYWdlcy9DcmVhdGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/Pages/MembershipTierPages/Delete.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTWVtYmVyc2hpcFRpZXJQYWdlcy9EZWxldGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/Pages/MembershipTierPages/Detail.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTWVtYmVyc2hpcFRpZXJQYWdlcy9EZXRhaWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/Pages/MembershipTierPages/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTWVtYmVyc2hpcFRpZXJQYWdlcy9FZGl0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/Pages/MembershipTierPages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTWVtYmVyc2hpcFRpZXJQYWdlcy9JbmRleC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/Pages/Shared/_Layout.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/Shared/LoginDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0xvZ2luRGlzcGxheS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-a5u49rmimt
+
+[/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-c8uevfpgp0
+
+[/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/Areas/Identity/Pages/Account/LogOut.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Mb2dPdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9SZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9fVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/Pages/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

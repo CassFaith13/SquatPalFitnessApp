@@ -1,0 +1,42 @@
+@page "/membership/detail/{MembershipTierId:int}"
+
+@inject IMembershipTierService _membershipService
+
+<h1 class="text text-primary">Membership Tier Details</h1>
+
+@if (membershipTierDetail is null)
+{
+    <p class="text-warning">There is no information on this Membership Tier</p>
+}
+else
+{
+    <div class="container">
+        <div class="card">
+            <div class="card-header d-flex justify-content-between">
+                <span>Membership Tier #@membershipTierDetail.MembershipTierId</span>
+            </div>
+            <div class="card-body">
+                <h4 class="card-title">@membershipTierDetail.Name</h4>
+                <p class="card-title">Monthly Price: $@membershipTierDetail.Price</p>
+                <p class="card-title">Tier Benefits: @membershipTierDetail.Benefits</p>
+            </div>
+        </div>
+        <div class="d-flex justify-content-center mt-3">
+            <div class="text-center justify-content-between w-25">
+                <a href="/membership/edit/@membershipTierDetail.MembershipTierId" class="btn btn-outline-primary">Edit</a>
+                <a href="/membership/delete/@membershipTierDetail.MembershipTierId" class="btn btn-outline-danger">Delete</a>
+                <a href="/membership" class="btn btn-secondary m-2">Back to Index</a>
+            </div>
+        </div>
+    </div>
+}
+
+@code{
+    [Parameter]
+    public int MembershipTierId { get; set; }
+    public MembershipTierDetail? membershipTierDetail { get; set; }
+    protected override async Task OnInitializedAsync()
+    {
+        membershipTierDetail = await _membershipService.GetMembershipTier(MembershipTierId);
+    }
+}

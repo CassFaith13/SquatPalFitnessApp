@@ -1,0 +1,66 @@
+@page "/exercise/edit/{ExerciseId:int}"
+
+<h1 class="text text-primary">Update Exercise</h1>
+
+@inject IExercisePlanService _exerciseService
+@inject NavigationManager _navManager
+
+@if (errorMessage != null)
+{
+    <h5 class="text-danger">@errorMessage</h5>
+}
+else
+{
+    <EditForm Model="@model" OnValidSubmit="@HandleSubmit">
+        <DataAnnotationsValidator/>
+        <ValidationSummary/>
+        <div class="form-group">
+            <label>Name of Exercise</label>
+            <InputText class="form-control" @bind-Value="model.Name"></InputText>
+        </div>
+        <div class="form-group">
+            <label>Type of Exercise</label>
+            <InputText class="form-control" @bind-Value="model.ExerciseType"></InputText>
+        </div>
+        <div class="form-group">
+            <label>Muscles Activated</label>
+            <InputText class="form-control" @bind-Value="model.MusclesActivated"></InputText>
+        </div>
+        <div class="form-group">
+            <button type="submit" class="btn btn-primary btn-block mt-5">Submit</button>
+        </div>
+        <div class="form-group mt-2">
+            <a href="/exercise" class="btn btn-secondary">Back to Index</a>
+        </div>
+    </EditForm>
+}
+
+@code{
+    [Parameter]
+    public int ExerciseId { get; set; }
+    private ExercisePlanEdit model = new();
+    private ExercisePlanDetail exercisePlanDetail = new();
+    private string? errorMessage;
+    protected override async Task OnInitializedAsync()
+    {
+        exercisePlanDetail = await _exerciseService.GetExercisePlan(ExerciseId);
+        if (exercisePlanDetail != null)
+        {
+            model.Name = exercisePlanDetail.Name;
+            model.ExerciseType = exercisePlanDetail.ExerciseType;
+            model.MusclesActivated = exercisePlanDetail.MusclesActivated;
+        }
+    }
+    public async Task HandleSubmit()
+    {
+        var isSuccess = await _exerciseService.UpdateExercisePlan(ExerciseId, model);
+        if (isSuccess)
+        {
+            _navManager.NavigateTo("/exercise");
+        }
+        else
+        {
+            errorMessage = "Unable to update Exercise. Please try again.";
+        }
+    }
+}

@@ -1,0 +1,122 @@
+@page "/client/edit/{ClientId:int}"
+
+<h1 class="text text-primary">Update Client</h1>
+
+@inject IMembershipTierService _membershipService
+@inject IExercisePlanService _exerciseService
+@inject IClientService _clientService
+@inject NavigationManager _navManager
+
+@if (errorMessage != null)
+{
+    <h5 class="text-danger">@errorMessage</h5>
+}
+else
+{
+    <EditForm Model="@model" OnValidSubmit="@HandleSubmit">
+        <DataAnnotationsValidator/>
+        <ValidationSummary/>
+        <div class="form-group">
+            <label>First Name</label>
+            <InputText class="form-control" @bind-Value="model.FirstName"></InputText>
+        </div>
+        <div class="form-group">
+            <label>Last Name</label>
+            <InputText class="form-control" @bind-Value="model.LastName"></InputText>
+        </div>
+        <div class="form-group">
+            <label>Email Address</label>
+            <InputText class="form-control" @bind-Value="model.Email"></InputText>
+        </div>
+        <div class="form-group">
+            <label>Height In Inches</label>
+            <InputNumber class="form-control" @bind-Value="model.HeightInches"></InputNumber>
+        </div>
+        <div class="form-group">
+            <label>Weight In Pounds</label>
+            <InputNumber class="form-control" @bind-Value="model.WeightLbs"></InputNumber>
+        </div>
+        <div class="form-group">
+            <label>Goal Weight</label>
+            <InputNumber class="form-control" @bind-Value="model.GoalWeight"></InputNumber>
+        </div>
+        <div class="form-group">
+            @if (Memberships == null)
+            {
+                <p>No Membership Tier available to display!</p>
+            }
+            else
+            {
+                <label>Membership Tier</label>
+                <InputSelect class="form-control" @bind-Value="model.MembershipId">
+                    @foreach (var membership in Memberships)
+                    {
+                        <option value="@membership.MembershipTierId">@membership.Name</option>
+                    }
+                </InputSelect>
+            }
+        </div>
+        <div class="form-group">
+            @if (Exercises == null)
+            {
+                <p>No Exercises available to display!</p>
+            }
+            else
+            {
+                <label>Exercise List</label>
+                <InputSelect class="form-control" @bind-Value="model.Exercises">
+                    @foreach (var exercise in Exercises)
+                    {
+                        <option value="@exercise.ExerciseId">@exercise.Name</option>
+                    }
+                </InputSelect>
+            }
+        </div>  
+        <div class="form-group">
+            <button type="submit" class="btn btn-primary btn-block mt-5">Submit</button>
+        </div>
+        <div class="form-group mt-5">
+            <a href="/client" class="btn btn-secondary">Back to Index</a>
+        </div>
+    </EditForm>
+}
+
+@code{
+    [Parameter]
+    public int ClientId { get; set; }
+    private ClientEdit model = new();
+    private ClientDetail clientDetail = new();
+    private List<MembershipTierListItem> Memberships;
+    private List<ExercisePlanListItem> Exercises; 
+    private string? errorMessage;
+    protected override async Task OnInitializedAsync()
+    {
+        clientDetail = await _clientService.GetClient(ClientId);
+        if (clientDetail != null)
+        {
+            model.ClientId = clientDetail.ClientId;
+            model.FirstName = clientDetail.FirstName;
+            model.LastName = clientDetail.LastName;
+            model.Email = clientDetail.Email;
+            model.HeightInches = clientDetail.HeightInches;
+            model.WeightLbs = clientDetail.WeightLbs;
+            model.GoalWeight = clientDetail.GoalWeight;
+            model.MembershipId = clientDetail.MembershipId;
+            model.Exercises = clientDetail.Exercises;
+        }
+        Memberships = await _membershipService.GetMembershipTiers();
+        Exercises = await _exerciseService.GetExercisePlans();
+    }
+    public async Task HandleSubmit()
+    {
+        var isSuccess = await _clientService.UpdateClient(model);
+        if (isSuccess)
+        {
+            _navManager.NavigateTo("/client");
+        }
+        else
+        {
+            errorMessage = "Unable to update Client. Please try again.";
+        }
+    }
+}
