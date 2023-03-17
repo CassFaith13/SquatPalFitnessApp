@@ -3,7 +3,7 @@
   <ItemGroup>
     <ProjectReference Include="..\SquatPal.Models\SquatPal.Models.csproj" />
     <ProjectReference Include="..\SquatPal.Data\SquatPal.Data.csproj" />
-  </ItemGroup>y
+  </ItemGroup>
 
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>

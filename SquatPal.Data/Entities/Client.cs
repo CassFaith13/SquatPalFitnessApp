@@ -20,8 +20,10 @@ namespace SquatPal.Data.Entities
         [Required]
         public int GoalWeight { get; set; }
         public int MembershipId { get; set; }
+        public int ExerciseId { get; set; }
         [ForeignKey(nameof(MembershipId))]
         public MembershipTier MembershipTier { get; set; } = null!;
-        public List<ExercisePlan> Exercises { get; set; } = new List<ExercisePlan>();
+        [ForeignKey(nameof(ExerciseId))]
+        public ExercisePlan ExercisePlan { get; set; } = null!;
     }
 }

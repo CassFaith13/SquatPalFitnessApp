@@ -24,7 +24,7 @@ namespace SquatPal.Services.Services
                 WeightLbs = model.WeightLbs,
                 GoalWeight = model.GoalWeight,
                 MembershipId = model.MembershipId,
-                Exercises = model.Exercises
+                ExerciseId = model.ExerciseId
             };
             // var exercise = new Client
             // {
@@ -53,7 +53,7 @@ namespace SquatPal.Services.Services
         {
             var client = await _context.Clients
             .Include(c => c.MembershipTier)
-            // .Include(c => c.Exercises)
+            .Include(c => c.ExercisePlan)
             .SingleOrDefaultAsync(c => c.ClientId == id);
 
             ClientDetail clientDetail = new ClientDetail()
@@ -66,7 +66,9 @@ namespace SquatPal.Services.Services
                 WeightLbs = client.WeightLbs,
                 GoalWeight = client.GoalWeight,
                 MembershipId = client.MembershipId,
-                Exercises = client.Exercises
+                ExerciseId = client.ExerciseId,
+                MembershipTierName = client.MembershipTier.Name,
+                ExercisePlanName = client.ExercisePlan.Name
             };
             return clientDetail;
         }
@@ -86,7 +88,7 @@ namespace SquatPal.Services.Services
             clientInDb.WeightLbs = model.WeightLbs;
             clientInDb.GoalWeight = model.GoalWeight;
             clientInDb.MembershipId = model.MembershipId;
-            clientInDb.Exercises = model.Exercises;
+            clientInDb.ExerciseId = model.ExerciseId;
             
             return await _context.SaveChangesAsync() == 1;
         }

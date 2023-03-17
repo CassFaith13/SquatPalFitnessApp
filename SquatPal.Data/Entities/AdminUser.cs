@@ -1,9 +1,8 @@
 using System.ComponentModel.DataAnnotations;
-using Microsoft.AspNetCore.Identity;
 
 namespace SquatPal.Data.Entities
 {
-    public class AdminUser : IdentityUser
+    public class AdminUser
     {
         public int AdminUserId { get; set; }
         [Required]
@@ -11,9 +10,9 @@ namespace SquatPal.Data.Entities
         [Required]
         public string LastName { get; set; } = null!;
         [Required]
-        public string AdminEmail { get; set; } = null!;
+        public string Email { get; set; } = null!;
         [Required]
-        public string AdminUsername { get; set; } = null!;
+        public string Username { get; set; } = null!;
         [Required]
         public string Password { get; set; } = null!;
     }

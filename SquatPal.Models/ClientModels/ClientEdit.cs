@@ -22,6 +22,7 @@ namespace SquatPal.Models.ClientModels
         public int GoalWeight { get; set; }
         [Required]
         public int MembershipId { get; set; }
-        public List<ExercisePlan>? Exercises { get; set; }
+        [Required]
+        public int ExerciseId { get; set; }
     }
 }

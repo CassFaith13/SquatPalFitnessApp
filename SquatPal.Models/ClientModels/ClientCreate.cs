@@ -28,6 +28,8 @@ namespace SquatPal.Models.ClientModels
         [Required]
         [DisplayName("Membership Tier ID Number")]
         public int MembershipId { get; set; }
-        public List<ExercisePlan>? Exercises { get; set; }
+        [Required]
+        [DisplayName("Exercise Plan ID Number")]
+        public int ExerciseId { get; set; }
     }
 }

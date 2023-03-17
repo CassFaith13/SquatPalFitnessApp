@@ -1,4 +1,3 @@
-using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using SquatPal.Data.DatabaseContext;
 using SquatPal.Data.Entities;
@@ -22,7 +21,7 @@ namespace SquatPal.Services.Services
                 FirstName = model.FirstName,
                 LastName = model.LastName,
                 Email = model.Email,
-                AdminUsername = model.AdminUsername,
+                Username = model.Username,
                 Password = model.Password
             };
 
@@ -48,7 +47,7 @@ namespace SquatPal.Services.Services
             AdminUserDetail adminUserDetail = new AdminUserDetail()
             {
                 AdminUserId = adminUser.AdminUserId,
-                AdminUsername = adminUser.AdminUsername,
+                Username = adminUser.Username,
                 Email = adminUser.Email,
                 FirstName = adminUser.FirstName,
                 LastName = adminUser.LastName

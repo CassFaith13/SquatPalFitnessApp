@@ -15,8 +15,10 @@ namespace SquatPal.Models.ClientModels
         public int WeightLbs { get; set; }
         public int GoalWeight { get; set; }
         public int MembershipId { get; set; }
+        public int ExerciseId { get; set; }
         public string MembershipTierName { get; set; } = null!;
+        public string ExercisePlanName { get; set; } = null!;
         public virtual MembershipTierListItem MembershipTier { get; set; } = null!;
-        public List<ExercisePlan> Exercises { get; set; } = new List<ExercisePlan>();
+        public virtual ExercisePlanListItem ExercisePlan { get; set; } = null!;
     }
 }
