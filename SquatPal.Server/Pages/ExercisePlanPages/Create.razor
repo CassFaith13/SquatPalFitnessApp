@@ -23,10 +23,32 @@ else
             <InputText class="form-control" @bind-Value="@model.ExerciseType"></InputText>
         </div>
         <div class="form-group">
+            <label>Workout #1</label>
+            <InputText class="form-control" @bind-Value="@model.WorkoutOne"></InputText>
+        </div>
+        <div class="form-group">
+            <label>Workout #2</label>
+            <InputText class="form-control" @bind-Value="@model.WorkoutTwo"></InputText>
+        </div>
+        <div class="form-group">
+            <label>Workout #3</label>
+            <InputText class="form-control" @bind-Value="@model.WorkoutThree"></InputText>
+        </div>
+        <div class="form-group">
+            <label>Workout #4</label>
+            <InputText class="form-control" @bind-Value="@model.WorkoutFour"></InputText>
+        </div>
+        <div class="form-group">
+            <label>Workout #5</label>
+            <InputText class="form-control" @bind-Value="@model.WorkoutFive"></InputText>
+        </div>
+        <div class="form-group">
             <label>Muscles Activated</label>
             <InputText class="form-control" @bind-Value="@model.MusclesActivated"></InputText>
         </div>
-        <button type="submit" class="btn btn-primary btn-block mt-5">Submit</button>
+        <div class="d-flex justify-content-center mt-2">
+            <button type="submit" class="btn btn-primary btn-block mt-3">Submit</button>
+        </div>
     </EditForm>
 }
 

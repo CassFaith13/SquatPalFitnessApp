@@ -1,0 +1,66 @@
+@page "/adminUser/create"
+
+<h1 class="text text-primary">Create an Admin User</h1>
+
+@inject IAdminUserService _adminService
+@inject NavigationManager _navManager
+
+@if (errorMessage != null)
+{
+    <h5 class="text-danger">@errorMessage</h5>
+}
+else
+{
+        <EditForm Model="@model" OnValidSubmit="@HandleSubmit">
+            <div class="container"></div>
+            @* <DataAnnotationsValidator/>
+            <ValidationSummary/> *@
+            <div class="form-group">
+                <label>First Name</label>
+                <InputText class="form-control" placeholder="Enter first name..." @bind-Value="model.FirstName"/>
+            </div>
+            <div class="form-group">
+                <label>Last Name</label>
+                <InputText class="form-control" placeholder="Enter last name..." @bind-Value="model.LastName"/>
+            </div>
+            <div class="form-group">
+                <label>Email Address</label>
+                <InputText class="form-control" placeholder="Enter email..." @bind-Value="model.Email"/>
+            </div>
+            <div class="form-group">
+                <label>Username</label>
+                <InputText class="form-control" placeholder="Enter username..." @bind-Value="model.Username"/>
+            </div>
+            <div class="form-group">
+                <label>Password</label>
+                <InputText class="form-control" placeholder="Enter password..." @bind-Value="model.Password"/>
+            </div>
+            <div class="form-group">
+                <label>Confirm Password</label>
+                <InputText class="form-control" placeholder="Confirm password..." @bind-Value="model.ConfirmPassword"/>
+            </div>
+            <div class="d-flex justify-content-center mt-3">
+                <button type="submit" class="btn btn-primary btn-block">Submit</button>
+            </div>
+            <div class="d-flex justify-content-center">
+                <a href="/adminUser" class="btn btn-secondary m-2">Back to Index</a>
+            </div>
+        </EditForm>
+}
+
+@code{
+    private AdminUserCreate model = new();
+    private string? errorMessage;
+    public async Task HandleSubmit()
+    {
+        var isSuccess = await _adminService.CreateAdminUser(model);
+        if (isSuccess)
+        {
+            _navManager.NavigateTo("/adminUser");
+        }
+        else
+        {
+            errorMessage = "Unable to create Admin User. Please try again!";
+        }
+    }
+}

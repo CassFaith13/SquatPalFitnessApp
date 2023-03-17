@@ -1,4 +1,4 @@
-@page "/exercise/detail/{ExerciseId:int}"
+@page "/exercise/detail/{ExercisePlanId:int}"
 
 @inject IExercisePlanService _exerciseService
 
@@ -13,30 +13,37 @@ else
     <div class="container">
         <div class="card">
             <div class="card-header d-flex justify-content-between">
-                <span>Exercise #@exercisePlanDetail.ExerciseId</span>
+                <span>Exercise #@exercisePlanDetail.ExercisePlanId</span>
             </div>
             <div class="card-body">
                 <h4 class="card-title">@exercisePlanDetail.Name</h4>
                 <p class="card-title">Exercise Type: @exercisePlanDetail.ExerciseType</p>
+                <p class="card-text">Workout #1: @exercisePlanDetail.WorkoutOne</p>
+                <p class="card-text">Workout #2: @exercisePlanDetail.WorkoutTwo</p>
+                <p class="card-text">Workout #3: @exercisePlanDetail.WorkoutThree</p>
+                <p class="card-text">Workout #4: @exercisePlanDetail.WorkoutFour</p>
+                <p class="card-text">Workout #5: @exercisePlanDetail.WorkoutFive</p>
                 <p class="card-title">Muscles Activated: @exercisePlanDetail.MusclesActivated</p>
             </div>
         </div>
-        <div class="d-flex justify-content-center mt-3">
-            <div class="text-center justify-content-between w-25">
-                <a href="/exercise/edit/@exercisePlanDetail.ExerciseId" class="btn btn-outline-primary">Edit</a>
-                <a href="/exercise/delete/@exercisePlanDetail.ExerciseId" class="btn btn-outline-danger">Delete</a>
-                <a href="/exercise" class="btn btn-secondary m-2">Back to Index</a>
+        <div class="d-flex justify-content-center mt-2">
+            <div class="text-center justify-content-between">
+                <a href="/exercise/edit/@exercisePlanDetail.ExercisePlanId" class="btn btn-outline-primary m-1">Edit</a>
+                <a href="/exercise/delete/@exercisePlanDetail.ExercisePlanId" class="btn btn-outline-danger">Delete</a>
             </div>
+        </div>
+        <div class="d-flex justify-content-center mt-2">
+            <a href="/exercise" class="btn btn-secondary m-2">Back to Index</a>
         </div>
     </div>
 }
 
 @code{
     [Parameter]
-    public int ExerciseId { get; set; }
+    public int ExercisePlanId { get; set; }
     public ExercisePlanDetail? exercisePlanDetail { get; set; }
     protected override async Task OnInitializedAsync()
     {
-        exercisePlanDetail = await _exerciseService.GetExercisePlan(ExerciseId);
+        exercisePlanDetail = await _exerciseService.GetExercisePlan(ExercisePlanId);
     }
 }

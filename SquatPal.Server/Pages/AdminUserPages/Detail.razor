@@ -1,0 +1,38 @@
+@page "/adminUser/detail/{AdminUserId:int}"
+
+@inject IAdminUserService _adminService
+
+<h1 class="text text-primary">Admin User Details</h1>
+
+@if (adminUserDetail is null)
+{
+    <p class="text-warning">There is no information for this Admin User</p>
+}
+else
+{
+    <div class="container">
+        <div class="card">
+            <div class="card-header d-flex justify-content-between">
+                <span>Admin User #@adminUserDetail.AdminUserId</span>
+            </div>
+            <div class="card-body">
+                <h4 class="card-title">@adminUserDetail.FirstName @adminUserDetail.LastName</h4>
+                <p class="card-text">Username: @adminUserDetail.Username</p>
+                <p class="card-text"> Email: @adminUserDetail.Email</p>
+            </div>
+        </div>
+        <div class="d-flex justify-content-center mt-3">
+            <a href="/adminUser" class="btn btn-secondary m-2">Back to Index</a>
+        </div>
+    </div>
+}
+
+@code{
+    [Parameter]
+    public int AdminUserId { get; set; }
+    public AdminUserDetail adminUserDetail { get; set; }
+    protected override async Task OnInitializedAsync()
+    {
+        adminUserDetail = await _adminService.GetAdminUser(AdminUserId);
+    }
+}

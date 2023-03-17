@@ -59,23 +59,23 @@ else
         <div class="form-group">
             @if (Exercises == null)
             {
-                <p>No Exercises available to display!</p>
+                <p>No Exercise Plans available to display!</p>
             }
             else
             {
                 <label>Exercise List</label>
-                <InputSelect class="form-control" @bind-Value="model.Exercises">
+                <InputSelect class="form-control" @bind-Value="model.ExerciseId">
                     @foreach (var exercise in Exercises)
                     {
-                        <option value="@exercise.ExerciseId">@exercise.Name</option>
+                        <option value="@exercise.ExercisePlanId">@exercise.Name</option>
                     }
                 </InputSelect>
             }
-        </div>  
-        <div class="form-group">
-            <button type="submit" class="btn btn-primary btn-block mt-5">Submit</button>
         </div>
-        <div class="form-group mt-5">
+        <div class="d-flex justify-content-center">
+            <button type="submit" class="btn btn-primary btn-block mt-3">Submit</button>
+        </div>
+        <div class="d-flex justify-content-center mt-2">
             <a href="/client" class="btn btn-secondary">Back to Index</a>
         </div>
     </EditForm>
@@ -102,7 +102,7 @@ else
             model.WeightLbs = clientDetail.WeightLbs;
             model.GoalWeight = clientDetail.GoalWeight;
             model.MembershipId = clientDetail.MembershipId;
-            model.Exercises = clientDetail.Exercises;
+            model.ExerciseId = clientDetail.ExerciseId;
         }
         Memberships = await _membershipService.GetMembershipTiers();
         Exercises = await _exerciseService.GetExercisePlans();

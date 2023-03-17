@@ -10,7 +10,6 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-SquatPal.Server-5c485430-6a8e-4aa0-a9a8-c08d2d93c365")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("SquatPal.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]

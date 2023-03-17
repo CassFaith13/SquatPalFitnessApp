@@ -1,4 +1,4 @@
-@page "/exercise/edit/{ExerciseId:int}"
+@page "/exercise/edit/{ExercisePlanId:int}"
 
 <h1 class="text text-primary">Update Exercise</h1>
 
@@ -26,10 +26,10 @@ else
             <label>Muscles Activated</label>
             <InputText class="form-control" @bind-Value="model.MusclesActivated"></InputText>
         </div>
-        <div class="form-group">
-            <button type="submit" class="btn btn-primary btn-block mt-5">Submit</button>
+        <div class="d-flex justify-content-center">
+            <button type="submit" class="btn btn-primary btn-block mt-3">Submit</button>
         </div>
-        <div class="form-group mt-2">
+        <div class="d-flex justify-content-center mt-2">
             <a href="/exercise" class="btn btn-secondary">Back to Index</a>
         </div>
     </EditForm>
@@ -37,23 +37,28 @@ else
 
 @code{
     [Parameter]
-    public int ExerciseId { get; set; }
+    public int ExercisePlanId { get; set; }
     private ExercisePlanEdit model = new();
     private ExercisePlanDetail exercisePlanDetail = new();
     private string? errorMessage;
     protected override async Task OnInitializedAsync()
     {
-        exercisePlanDetail = await _exerciseService.GetExercisePlan(ExerciseId);
+        exercisePlanDetail = await _exerciseService.GetExercisePlan(ExercisePlanId);
         if (exercisePlanDetail != null)
         {
             model.Name = exercisePlanDetail.Name;
             model.ExerciseType = exercisePlanDetail.ExerciseType;
+            model.WorkoutOne = exercisePlanDetail.WorkoutOne;
+            model.WorkoutTwo = exercisePlanDetail.WorkoutTwo;
+            model.WorkoutThree = exercisePlanDetail.WorkoutThree;
+            model.WorkoutFour = exercisePlanDetail.WorkoutFour;
+            model.WorkoutFive = exercisePlanDetail.WorkoutFive;
             model.MusclesActivated = exercisePlanDetail.MusclesActivated;
         }
     }
     public async Task HandleSubmit()
     {
-        var isSuccess = await _exerciseService.UpdateExercisePlan(ExerciseId, model);
+        var isSuccess = await _exerciseService.UpdateExercisePlan(ExercisePlanId, model);
         if (isSuccess)
         {
             _navManager.NavigateTo("/exercise");

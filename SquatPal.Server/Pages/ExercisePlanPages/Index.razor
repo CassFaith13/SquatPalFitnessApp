@@ -17,12 +17,12 @@
             @foreach (var exercise in _exercises)
             {
                 <tr>
-                    <td>@exercise.ExerciseId</td>
+                    <td>@exercise.ExercisePlanId</td>
                     <td>@exercise.Name</td>
                     <td>
-                        <a href="/exercise/edit/@exercise.ExerciseId" class="btn btn-success">Edit</a>
-                        <a href="/exercise/detail/@exercise.ExerciseId" class="btn btn-warning">Details</a>
-                        <a href="/exercise/delete/@exercise.ExerciseId" class="btn btn-danger">Delete</a>
+                        <a href="/exercise/edit/@exercise.ExercisePlanId" class="btn btn-success">Edit</a>
+                        <a href="/exercise/detail/@exercise.ExercisePlanId" class="btn btn-warning">Details</a>
+                        <a href="/exercise/delete/@exercise.ExercisePlanId" class="btn btn-danger">Delete</a>
                     </td>
                 </tr>
             }

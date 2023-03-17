@@ -1,0 +1,56 @@
+@page "/adminUser/signin"
+@model SquatPal.Server.Pages.AdminUserPages.LoginModel
+@using SquatPal.Models.AdminUserModels
+@using Microsoft.AspNetCore.Identity
+@inject NavigationManager _navManager
+@inject AdminUserService _adminService
+@inject SignInManager<IdentityUser> SignInManager
+
+
+<h1 class="text text-primary">Admin Log In</h1>
+
+<div class="container">
+    <EditForm Model="@model" OnValidSubmit="@HandleSubmit">
+        <DataAnnotationsValidator/>
+        <div class="form-group">
+            <label>Username</label>
+            <InputText class="form-control" placeholder="Enter username..." @bind-Value="model.Username"/>
+        </div>
+        <div class="form-group">
+            <label>Password</label>
+            <InputText class="form-control" placeholder="Enter email..." @bind-Value="model.Password"/>
+        </div>
+        <button type="submit" class="btn btn-primary btn-block mt-5">Log In</button>
+        <div>
+            <a id="forgot-password" asp-page="./ForgotPassword" class="btn btn-warning btn-block mt-5">Forgot password?</a>
+            <a href="/adminUser/create" class="btn btn-primary btn-block mt-5">Create Admin User</a>
+            <a href="/adminUser" class="btn btn-secondary mt-5">Back to Index</a>
+        </div>
+    </EditForm>
+</div>
+
+@code {
+    private AdminUserLogin model = new AdminUserLogin();
+    private string? errorMessage;
+    protected override void OnInitialized()
+        {
+            if (model != null)
+            {
+                _navManager.NavigateTo("/adminUser");
+            }
+        }
+    
+    public async Task HandleSubmit()
+    {
+        var isSuccess = await SignInManager.PasswordSignInAsync(model.Username, model.Password, false, lockoutOnFailure: false);
+
+        if (isSuccess.Succeeded)
+        {
+            _navManager.NavigateTo("/adminUser");
+        }
+        else
+        {
+            errorMessage = "Unable to Log In to Admin User. Please try again!";
+        }
+    }
+}
