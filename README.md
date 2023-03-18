@@ -27,7 +27,7 @@ Unfortunately I was unable to get my authorization and azure deployment develope
 3. Enjoy!
 
 <h2>Contributing</h2>
-Special thank you to Terry Brown for helping me throughout the semester, but also struggling with me and my many MAC issues.
+Special thank you to <a href="https://github.com/jhondoe256" target="_blank">Terry Brown</a> for helping me throughout the semester, but also struggling with me and my many MAC issues.
 
 <h2>Project status</h2>
 Complete...for now.
