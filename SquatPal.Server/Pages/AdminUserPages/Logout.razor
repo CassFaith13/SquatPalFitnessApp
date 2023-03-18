@@ -1,11 +1,4 @@
 @page "/adminUser/logout"
-
-@using SquatPal.Data.Entities
-@using Microsoft.AspNetCore.Identity
-@using Microsoft.AspNetCore.Mvc
-@using Microsoft.AspNetCore.Mvc.RazorPages
-@using Microsoft.Extensions.Logging
-@inject SignInManager<AdminUser> _signInManager
 @inject NavigationManager _navManager
 
 <h1 class="text text-primary">Admin Log Out</h1>
@@ -18,17 +11,13 @@
 else
 {
     <div class="container">
-        <EditForm />
+        <EditForm>
         <button type="submit" class="btn btn-primary btn-block mt-5">Click here to Logout</button>
         <a href="/adminUser" class="btn btn-secondary mt-5">Back to Index</a>
+        </EditForm>
     </div>
 }
 
 @code {
     private string? errorMessage;
-    protected override async void OnInitialized()
-    {
-        await _signInManager.SignOutAsync();
-        _navManager.NavigateTo("/adminUser");
-    }
 }

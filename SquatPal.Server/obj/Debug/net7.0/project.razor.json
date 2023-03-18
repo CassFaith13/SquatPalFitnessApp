@@ -13,250 +13,6 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": 248793187,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.Index",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.Index",
-          "Common.TypeNamespace": "SquatPal.Server.Pages",
-          "Common.TypeNameIdentifier": "Index"
-        }
-      },
-      {
-        "HashCode": 1567702032,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.Index",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SquatPal.Server.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.Index",
-          "Common.TypeNamespace": "SquatPal.Server.Pages",
-          "Common.TypeNameIdentifier": "Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1412111563,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.AdminUserPages.Login",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Login"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.AdminUserPages.Login",
-          "Common.TypeNamespace": "SquatPal.Server.Pages.AdminUserPages",
-          "Common.TypeNameIdentifier": "Login"
-        }
-      },
-      {
-        "HashCode": 921215043,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.AdminUserPages.Login",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SquatPal.Server.Pages.AdminUserPages.Login"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.AdminUserPages.Login",
-          "Common.TypeNamespace": "SquatPal.Server.Pages.AdminUserPages",
-          "Common.TypeNameIdentifier": "Login",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -994921536,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.AdminUserPages.Logout",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Logout"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.AdminUserPages.Logout",
-          "Common.TypeNamespace": "SquatPal.Server.Pages.AdminUserPages",
-          "Common.TypeNameIdentifier": "Logout"
-        }
-      },
-      {
-        "HashCode": 787266616,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.AdminUserPages.Logout",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SquatPal.Server.Pages.AdminUserPages.Logout"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.AdminUserPages.Logout",
-          "Common.TypeNamespace": "SquatPal.Server.Pages.AdminUserPages",
-          "Common.TypeNameIdentifier": "Logout",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1098457808,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.AdminUserPages.Detail",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Detail"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "AdminUserId",
-            "TypeName": "System.Int32",
-            "Metadata": {
-              "Common.PropertyName": "AdminUserId",
-              "Common.GloballyQualifiedTypeName": "global::System.Int32"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.AdminUserPages.Detail",
-          "Common.TypeNamespace": "SquatPal.Server.Pages.AdminUserPages",
-          "Common.TypeNameIdentifier": "Detail"
-        }
-      },
-      {
-        "HashCode": 1140338368,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.AdminUserPages.Detail",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SquatPal.Server.Pages.AdminUserPages.Detail"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "AdminUserId",
-            "TypeName": "System.Int32",
-            "Metadata": {
-              "Common.PropertyName": "AdminUserId",
-              "Common.GloballyQualifiedTypeName": "global::System.Int32"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.AdminUserPages.Detail",
-          "Common.TypeNamespace": "SquatPal.Server.Pages.AdminUserPages",
-          "Common.TypeNameIdentifier": "Detail",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -255910655,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.AdminUserPages.Index",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.AdminUserPages.Index",
-          "Common.TypeNamespace": "SquatPal.Server.Pages.AdminUserPages",
-          "Common.TypeNameIdentifier": "Index"
-        }
-      },
-      {
-        "HashCode": -1368737496,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.AdminUserPages.Index",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SquatPal.Server.Pages.AdminUserPages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.AdminUserPages.Index",
-          "Common.TypeNamespace": "SquatPal.Server.Pages.AdminUserPages",
-          "Common.TypeNameIdentifier": "Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 665924205,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.AdminUserPages.Create",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Create"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.AdminUserPages.Create",
-          "Common.TypeNamespace": "SquatPal.Server.Pages.AdminUserPages",
-          "Common.TypeNameIdentifier": "Create"
-        }
-      },
-      {
-        "HashCode": -1897666518,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.AdminUserPages.Create",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SquatPal.Server.Pages.AdminUserPages.Create"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.AdminUserPages.Create",
-          "Common.TypeNamespace": "SquatPal.Server.Pages.AdminUserPages",
-          "Common.TypeNameIdentifier": "Create",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 2102638172,
         "Kind": "Components.Component",
         "Name": "SquatPal.Server.Pages.MembershipTierPages.Create",
@@ -504,198 +260,6 @@
           "Common.TypeName": "SquatPal.Server.Pages.MembershipTierPages.Delete",
           "Common.TypeNamespace": "SquatPal.Server.Pages.MembershipTierPages",
           "Common.TypeNameIdentifier": "Delete",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1162161052,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.ClientPages.Index",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.ClientPages.Index",
-          "Common.TypeNamespace": "SquatPal.Server.Pages.ClientPages",
-          "Common.TypeNameIdentifier": "Index"
-        }
-      },
-      {
-        "HashCode": -1990987116,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.ClientPages.Index",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SquatPal.Server.Pages.ClientPages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.ClientPages.Index",
-          "Common.TypeNamespace": "SquatPal.Server.Pages.ClientPages",
-          "Common.TypeNameIdentifier": "Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1111592268,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.ClientPages.Create",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Create"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.ClientPages.Create",
-          "Common.TypeNamespace": "SquatPal.Server.Pages.ClientPages",
-          "Common.TypeNameIdentifier": "Create"
-        }
-      },
-      {
-        "HashCode": 1553887757,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.ClientPages.Create",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SquatPal.Server.Pages.ClientPages.Create"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.ClientPages.Create",
-          "Common.TypeNamespace": "SquatPal.Server.Pages.ClientPages",
-          "Common.TypeNameIdentifier": "Create",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 557112083,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.ClientPages.Detail",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Detail"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "ClientId",
-            "TypeName": "System.Int32",
-            "Metadata": {
-              "Common.PropertyName": "ClientId",
-              "Common.GloballyQualifiedTypeName": "global::System.Int32"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.ClientPages.Detail",
-          "Common.TypeNamespace": "SquatPal.Server.Pages.ClientPages",
-          "Common.TypeNameIdentifier": "Detail"
-        }
-      },
-      {
-        "HashCode": 184258683,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.ClientPages.Detail",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SquatPal.Server.Pages.ClientPages.Detail"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "ClientId",
-            "TypeName": "System.Int32",
-            "Metadata": {
-              "Common.PropertyName": "ClientId",
-              "Common.GloballyQualifiedTypeName": "global::System.Int32"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.ClientPages.Detail",
-          "Common.TypeNamespace": "SquatPal.Server.Pages.ClientPages",
-          "Common.TypeNameIdentifier": "Detail",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1794489621,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.ClientPages.Edit",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Edit"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "ClientId",
-            "TypeName": "System.Int32",
-            "Metadata": {
-              "Common.PropertyName": "ClientId",
-              "Common.GloballyQualifiedTypeName": "global::System.Int32"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.ClientPages.Edit",
-          "Common.TypeNamespace": "SquatPal.Server.Pages.ClientPages",
-          "Common.TypeNameIdentifier": "Edit"
-        }
-      },
-      {
-        "HashCode": 1827731,
-        "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Pages.ClientPages.Edit",
-        "AssemblyName": "SquatPal.Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SquatPal.Server.Pages.ClientPages.Edit"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "ClientId",
-            "TypeName": "System.Int32",
-            "Metadata": {
-              "Common.PropertyName": "ClientId",
-              "Common.GloballyQualifiedTypeName": "global::System.Int32"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Pages.ClientPages.Edit",
-          "Common.TypeNamespace": "SquatPal.Server.Pages.ClientPages",
-          "Common.TypeNameIdentifier": "Edit",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -951,39 +515,475 @@
         }
       },
       {
-        "HashCode": 1431787089,
+        "HashCode": -1111592268,
         "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Shared.NavMenu",
+        "Name": "SquatPal.Server.Pages.ClientPages.Create",
         "AssemblyName": "SquatPal.Server",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "NavMenu"
+            "TagName": "Create"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Shared.NavMenu",
-          "Common.TypeNamespace": "SquatPal.Server.Shared",
-          "Common.TypeNameIdentifier": "NavMenu"
+          "Common.TypeName": "SquatPal.Server.Pages.ClientPages.Create",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.ClientPages",
+          "Common.TypeNameIdentifier": "Create"
         }
       },
       {
-        "HashCode": 2146050431,
+        "HashCode": 1553887757,
         "Kind": "Components.Component",
-        "Name": "SquatPal.Server.Shared.NavMenu",
+        "Name": "SquatPal.Server.Pages.ClientPages.Create",
         "AssemblyName": "SquatPal.Server",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "SquatPal.Server.Shared.NavMenu"
+            "TagName": "SquatPal.Server.Pages.ClientPages.Create"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.Shared.NavMenu",
-          "Common.TypeNamespace": "SquatPal.Server.Shared",
-          "Common.TypeNameIdentifier": "NavMenu",
+          "Common.TypeName": "SquatPal.Server.Pages.ClientPages.Create",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.ClientPages",
+          "Common.TypeNameIdentifier": "Create",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 557112083,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.ClientPages.Detail",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Detail"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "ClientId",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "ClientId",
+              "Common.GloballyQualifiedTypeName": "global::System.Int32"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.ClientPages.Detail",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.ClientPages",
+          "Common.TypeNameIdentifier": "Detail"
+        }
+      },
+      {
+        "HashCode": 184258683,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.ClientPages.Detail",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SquatPal.Server.Pages.ClientPages.Detail"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "ClientId",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "ClientId",
+              "Common.GloballyQualifiedTypeName": "global::System.Int32"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.ClientPages.Detail",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.ClientPages",
+          "Common.TypeNameIdentifier": "Detail",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1794489621,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.ClientPages.Edit",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Edit"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "ClientId",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "ClientId",
+              "Common.GloballyQualifiedTypeName": "global::System.Int32"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.ClientPages.Edit",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.ClientPages",
+          "Common.TypeNameIdentifier": "Edit"
+        }
+      },
+      {
+        "HashCode": 1827731,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.ClientPages.Edit",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SquatPal.Server.Pages.ClientPages.Edit"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "ClientId",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "ClientId",
+              "Common.GloballyQualifiedTypeName": "global::System.Int32"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.ClientPages.Edit",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.ClientPages",
+          "Common.TypeNameIdentifier": "Edit",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1162161052,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.ClientPages.Index",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.ClientPages.Index",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.ClientPages",
+          "Common.TypeNameIdentifier": "Index"
+        }
+      },
+      {
+        "HashCode": -1990987116,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.ClientPages.Index",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SquatPal.Server.Pages.ClientPages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.ClientPages.Index",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.ClientPages",
+          "Common.TypeNameIdentifier": "Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 665924205,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.AdminUserPages.Create",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Create"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.AdminUserPages.Create",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.AdminUserPages",
+          "Common.TypeNameIdentifier": "Create"
+        }
+      },
+      {
+        "HashCode": -1897666518,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.AdminUserPages.Create",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SquatPal.Server.Pages.AdminUserPages.Create"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.AdminUserPages.Create",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.AdminUserPages",
+          "Common.TypeNameIdentifier": "Create",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1098457808,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.AdminUserPages.Detail",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Detail"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "AdminUserId",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "AdminUserId",
+              "Common.GloballyQualifiedTypeName": "global::System.Int32"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.AdminUserPages.Detail",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.AdminUserPages",
+          "Common.TypeNameIdentifier": "Detail"
+        }
+      },
+      {
+        "HashCode": 1140338368,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.AdminUserPages.Detail",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SquatPal.Server.Pages.AdminUserPages.Detail"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "AdminUserId",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "AdminUserId",
+              "Common.GloballyQualifiedTypeName": "global::System.Int32"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.AdminUserPages.Detail",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.AdminUserPages",
+          "Common.TypeNameIdentifier": "Detail",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -994921536,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.AdminUserPages.Logout",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Logout"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.AdminUserPages.Logout",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.AdminUserPages",
+          "Common.TypeNameIdentifier": "Logout"
+        }
+      },
+      {
+        "HashCode": 787266616,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.AdminUserPages.Logout",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SquatPal.Server.Pages.AdminUserPages.Logout"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.AdminUserPages.Logout",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.AdminUserPages",
+          "Common.TypeNameIdentifier": "Logout",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1412111563,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.AdminUserPages.Login",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Login"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.AdminUserPages.Login",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.AdminUserPages",
+          "Common.TypeNameIdentifier": "Login"
+        }
+      },
+      {
+        "HashCode": 921215043,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.AdminUserPages.Login",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SquatPal.Server.Pages.AdminUserPages.Login"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.AdminUserPages.Login",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.AdminUserPages",
+          "Common.TypeNameIdentifier": "Login",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -255910655,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.AdminUserPages.Index",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.AdminUserPages.Index",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.AdminUserPages",
+          "Common.TypeNameIdentifier": "Index"
+        }
+      },
+      {
+        "HashCode": -1368737496,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.AdminUserPages.Index",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SquatPal.Server.Pages.AdminUserPages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.AdminUserPages.Index",
+          "Common.TypeNamespace": "SquatPal.Server.Pages.AdminUserPages",
+          "Common.TypeNameIdentifier": "Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 248793187,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.Index",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.Index",
+          "Common.TypeNamespace": "SquatPal.Server.Pages",
+          "Common.TypeNameIdentifier": "Index"
+        }
+      },
+      {
+        "HashCode": 1567702032,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.Pages.Index",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SquatPal.Server.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.Pages.Index",
+          "Common.TypeNamespace": "SquatPal.Server.Pages",
+          "Common.TypeNameIdentifier": "Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1681636020,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.App",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.App",
+          "Common.TypeNamespace": "SquatPal.Server",
+          "Common.TypeNameIdentifier": "App"
+        }
+      },
+      {
+        "HashCode": 630995479,
+        "Kind": "Components.Component",
+        "Name": "SquatPal.Server.App",
+        "AssemblyName": "SquatPal.Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SquatPal.Server.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SquatPal.Server.App",
+          "Common.TypeNamespace": "SquatPal.Server",
+          "Common.TypeNameIdentifier": "App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -1094,39 +1094,39 @@
         }
       },
       {
-        "HashCode": 1681636020,
+        "HashCode": 1431787089,
         "Kind": "Components.Component",
-        "Name": "SquatPal.Server.App",
+        "Name": "SquatPal.Server.Shared.NavMenu",
         "AssemblyName": "SquatPal.Server",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.App",
-          "Common.TypeNamespace": "SquatPal.Server",
-          "Common.TypeNameIdentifier": "App"
+          "Common.TypeName": "SquatPal.Server.Shared.NavMenu",
+          "Common.TypeNamespace": "SquatPal.Server.Shared",
+          "Common.TypeNameIdentifier": "NavMenu"
         }
       },
       {
-        "HashCode": 630995479,
+        "HashCode": 2146050431,
         "Kind": "Components.Component",
-        "Name": "SquatPal.Server.App",
+        "Name": "SquatPal.Server.Shared.NavMenu",
         "AssemblyName": "SquatPal.Server",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "SquatPal.Server.App"
+            "TagName": "SquatPal.Server.Shared.NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SquatPal.Server.App",
-          "Common.TypeNamespace": "SquatPal.Server",
-          "Common.TypeNameIdentifier": "App",
+          "Common.TypeName": "SquatPal.Server.Shared.NavMenu",
+          "Common.TypeNamespace": "SquatPal.Server.Shared",
+          "Common.TypeNameIdentifier": "NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },

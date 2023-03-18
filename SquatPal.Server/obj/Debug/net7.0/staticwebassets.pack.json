@@ -5,6 +5,26 @@
       "PackagePath": "staticwebassets/SquatPal.Server.bundle.scp.css"
     },
     {
+      "Id": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/wwwroot/Before_After_1.JPG",
+      "PackagePath": "staticwebassets/Before_After_1.JPG"
+    },
+    {
+      "Id": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/wwwroot/Before_After_2.JPG",
+      "PackagePath": "staticwebassets/Before_After_2.JPG"
+    },
+    {
+      "Id": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/wwwroot/Before_After_3.JPG",
+      "PackagePath": "staticwebassets/Before_After_3.JPG"
+    },
+    {
+      "Id": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/wwwroot/PersonalTrainer.PNG",
+      "PackagePath": "staticwebassets/PersonalTrainer.PNG"
+    },
+    {
+      "Id": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/wwwroot/WorkOut.jpg",
+      "PackagePath": "staticwebassets/WorkOut.jpg"
+    },
+    {
       "Id": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/wwwroot/css/bootstrap/bootstrap.min.css",
       "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
     },

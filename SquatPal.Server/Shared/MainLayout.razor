@@ -10,14 +10,8 @@
     <main>
         <div class="top-row px-4">
             <a href="/adminUser" class="btn btn-primary">Admin</a>
-            @* <AuthorizeView>
-                <Authorized>
-                    <a href="Identity/Account/Manage">Hello, @context.User.Identity?.Name!</a>
-                    <form method="post" action="adminUser/logout">
-                        <button type="submit" class="nav-link btn btn-link">Log out</button>
-                    </form>
-                </Authorized>
-        </AuthorizeView> *@
+                    <a href="Identity/Account/Manage">Account</a>
+                    <a href="Identity/Account/Logout">Log Out</a>
         </div>
         <article class="content px-4">
             @Body
@@ -25,8 +19,3 @@
     </main>
 </div>
 
-<footer class="text-muted">
-    <div class="container">
-        &copy; SquatPal 2023
-    </div>
-</footer>
