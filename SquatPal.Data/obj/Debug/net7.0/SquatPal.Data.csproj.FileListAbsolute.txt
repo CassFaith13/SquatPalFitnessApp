@@ -12,3 +12,17 @@
 /Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Data/obj/Debug/net7.0/ref/SquatPal.Data.dll
 /Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Data/bin/Debug/net7.0/SquatPal.Data.runtimeconfig.json
 /Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Data/obj/Debug/net7.0/SquatPal.Data.genruntimeconfig.cache
+/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Data/bin/Debug/net7.0/SquatPal.Data.deps.json
+/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Data/bin/Debug/net7.0/SquatPal.Data.runtimeconfig.json
+/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Data/bin/Debug/net7.0/SquatPal.Data.dll
+/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Data/bin/Debug/net7.0/SquatPal.Data.pdb
+/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Data/obj/Debug/net7.0/SquatPal.Data.csproj.AssemblyReference.cache
+/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Data/obj/Debug/net7.0/SquatPal.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Data/obj/Debug/net7.0/SquatPal.Data.AssemblyInfoInputs.cache
+/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Data/obj/Debug/net7.0/SquatPal.Data.AssemblyInfo.cs
+/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Data/obj/Debug/net7.0/SquatPal.Data.csproj.CoreCompileInputs.cache
+/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Data/obj/Debug/net7.0/SquatPal.Data.dll
+/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Data/obj/Debug/net7.0/refint/SquatPal.Data.dll
+/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Data/obj/Debug/net7.0/SquatPal.Data.pdb
+/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Data/obj/Debug/net7.0/SquatPal.Data.genruntimeconfig.cache
+/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Data/obj/Debug/net7.0/ref/SquatPal.Data.dll

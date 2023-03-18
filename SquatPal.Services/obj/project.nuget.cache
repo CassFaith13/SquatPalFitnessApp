@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZHBkzJaf/GZuPSleAyXFpzFOJPeGW7arhB9dCqtl7PRyWVCq/TFIhkd5h764VDKavt0Uc1RDZJpkzOfYYb1cjw==",
+  "dgSpecHash": "OCO5e+UlRNbFZYkB5sA8JwdPvRcCvEcmook1rJAfZbsGQRpiv43OYe1NF0uHn6M3I/t0aLtta6sjMfZHeIATAA==",
   "success": true,
-  "projectFilePath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Services/SquatPal.Services.csproj",
+  "projectFilePath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Services/SquatPal.Services.csproj",
   "expectedPackageFiles": [
     "/Users/home/.nuget/packages/azure.core/1.24.0/azure.core.1.24.0.nupkg.sha512",
     "/Users/home/.nuget/packages/azure.identity/1.6.0/azure.identity.1.6.0.nupkg.sha512",

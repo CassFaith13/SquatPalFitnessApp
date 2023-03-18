@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Models/SquatPal.Models.csproj": {}
+    "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Models/SquatPal.Models.csproj": {}
   },
   "projects": {
-    "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Data/SquatPal.Data.csproj": {
+    "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Data/SquatPal.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Data/SquatPal.Data.csproj",
+        "projectUniqueName": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Data/SquatPal.Data.csproj",
         "projectName": "SquatPal.Data",
-        "projectPath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Data/SquatPal.Data.csproj",
+        "projectPath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Data/SquatPal.Data.csproj",
         "packagesPath": "/Users/home/.nuget/packages/",
-        "outputPath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Data/obj/",
+        "outputPath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Data/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/home/.nuget/NuGet/NuGet.Config"
@@ -75,14 +75,14 @@
         }
       }
     },
-    "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Models/SquatPal.Models.csproj": {
+    "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Models/SquatPal.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Models/SquatPal.Models.csproj",
+        "projectUniqueName": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Models/SquatPal.Models.csproj",
         "projectName": "SquatPal.Models",
-        "projectPath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Models/SquatPal.Models.csproj",
+        "projectPath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Models/SquatPal.Models.csproj",
         "packagesPath": "/Users/home/.nuget/packages/",
-        "outputPath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Models/obj/",
+        "outputPath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Models/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/home/.nuget/NuGet/NuGet.Config"
@@ -97,8 +97,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Data/SquatPal.Data.csproj": {
-                "projectPath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Data/SquatPal.Data.csproj"
+              "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Data/SquatPal.Data.csproj": {
+                "projectPath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Data/SquatPal.Data.csproj"
               }
             }
           }

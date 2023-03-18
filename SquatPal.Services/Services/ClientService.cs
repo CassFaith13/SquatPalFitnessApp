@@ -26,13 +26,8 @@ namespace SquatPal.Services.Services
                 MembershipId = model.MembershipId,
                 ExerciseId = model.ExerciseId
             };
-            // var exercise = new Client
-            // {
-            //     Exercises = model.Exercises
-            // };
+
             _context.Clients.Add(client);
-            
-            // _context.Clients.AddRange(exercise);
 
             var numberOfChanges = await _context.SaveChangesAsync();
             return numberOfChanges == 1;

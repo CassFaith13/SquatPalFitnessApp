@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2VPzMs39MIHeI2/dUH0nJmWW/SQQV5HT5v0HoGLt4Cw=",
+  "Hash": "zIX7yIxlIO4zNkJuQs1BJ1WLrwvPaoWhrLbetZpWGvw=",
   "Source": "SquatPal.Server",
   "BasePath": "_content/SquatPal.Server",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "SquatPal.Server/wwwroot",
       "Source": "SquatPal.Server",
-      "ContentRoot": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/wwwroot/",
+      "ContentRoot": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Server/wwwroot/",
       "BasePath": "_content/SquatPal.Server",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/obj/Debug/net7.0/scopedcss/bundle/SquatPal.Server.styles.css",
+      "Identity": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Server/obj/Debug/net7.0/scopedcss/bundle/SquatPal.Server.styles.css",
       "SourceId": "SquatPal.Server",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/obj/Debug/net7.0/scopedcss/bundle/",
+      "ContentRoot": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Server/obj/Debug/net7.0/scopedcss/bundle/",
       "BasePath": "_content/SquatPal.Server",
       "RelativePath": "SquatPal.Server.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/obj/Debug/net7.0/scopedcss/bundle/SquatPal.Server.styles.css"
+      "OriginalItemSpec": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Server/obj/Debug/net7.0/scopedcss/bundle/SquatPal.Server.styles.css"
     },
     {
-      "Identity": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/obj/Debug/net7.0/scopedcss/projectbundle/SquatPal.Server.bundle.scp.css",
+      "Identity": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Server/obj/Debug/net7.0/scopedcss/projectbundle/SquatPal.Server.bundle.scp.css",
       "SourceId": "SquatPal.Server",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/obj/Debug/net7.0/scopedcss/projectbundle/",
+      "ContentRoot": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Server/obj/Debug/net7.0/scopedcss/projectbundle/",
       "BasePath": "_content/SquatPal.Server",
       "RelativePath": "SquatPal.Server.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/obj/Debug/net7.0/scopedcss/projectbundle/SquatPal.Server.bundle.scp.css"
+      "OriginalItemSpec": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Server/obj/Debug/net7.0/scopedcss/projectbundle/SquatPal.Server.bundle.scp.css"
     },
     {
-      "Identity": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/wwwroot/Before_After_1.JPG",
+      "Identity": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Server/wwwroot/Before_After_1.JPG",
       "SourceId": "SquatPal.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/wwwroot/",
+      "ContentRoot": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Server/wwwroot/",
       "BasePath": "_content/SquatPal.Server",
       "RelativePath": "Before_After_1.JPG",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot/Before_After_1.JPG"
     },
     {
-      "Identity": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/wwwroot/Before_After_2.JPG",
+      "Identity": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Server/wwwroot/Before_After_2.JPG",
       "SourceId": "SquatPal.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/wwwroot/",
+      "ContentRoot": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Server/wwwroot/",
       "BasePath": "_content/SquatPal.Server",
       "RelativePath": "Before_After_2.JPG",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot/Before_After_2.JPG"
     },
     {
-      "Identity": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/wwwroot/Before_After_3.JPG",
+      "Identity": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Server/wwwroot/Before_After_3.JPG",
       "SourceId": "SquatPal.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/wwwroot/",
+      "ContentRoot": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Server/wwwroot/",
       "BasePath": "_content/SquatPal.Server",
       "RelativePath": "Before_After_3.JPG",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot/Before_After_3.JPG"
     },
     {
-      "Identity": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/wwwroot/css/bootstrap/bootstrap.min.css",
+      "Identity": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Server/wwwroot/css/bootstrap/bootstrap.min.css",
       "SourceId": "SquatPal.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/wwwroot/",
+      "ContentRoot": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Server/wwwroot/",
       "BasePath": "_content/SquatPal.Server",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css"
     },
     {
-      "Identity": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "Identity": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Server/wwwroot/css/bootstrap/bootstrap.min.css.map",
       "SourceId": "SquatPal.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/wwwroot/",
+      "ContentRoot": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Server/wwwroot/",
       "BasePath": "_content/SquatPal.Server",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Identity": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/wwwroot/css/open-iconic/FONT-LICENSE",
+      "Identity": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Server/wwwroot/css/open-iconic/FONT-LICENSE",
       "SourceId": "SquatPal.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/wwwroot/",
+      "ContentRoot": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Server/wwwroot/",
       "BasePath": "_content/SquatPal.Server",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/FONT-LICENSE"
     },
     {
-      "Identity": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
+      "Identity": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Server/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "SourceId": "SquatPal.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/wwwroot/",
+      "ContentRoot": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Server/wwwroot/",
       "BasePath": "_content/SquatPal.Server",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
+      "Identity": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Server/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
       "SourceId": "SquatPal.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/wwwroot/",
+      "ContentRoot": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Server/wwwroot/",
       "BasePath": "_content/SquatPal.Server",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.eot"
     },
     {
-      "Identity": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
+      "Identity": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Server/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
       "SourceId": "SquatPal.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/wwwroot/",
+      "ContentRoot": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Server/wwwroot/",
       "BasePath": "_content/SquatPal.Server",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.otf"
     },
     {
-      "Identity": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
+      "Identity": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Server/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
       "SourceId": "SquatPal.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/wwwroot/",
+      "ContentRoot": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Server/wwwroot/",
       "BasePath": "_content/SquatPal.Server",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.svg"
     },
     {
-      "Identity": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
+      "Identity": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Server/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
       "SourceId": "SquatPal.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/wwwroot/",
+      "ContentRoot": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Server/wwwroot/",
       "BasePath": "_content/SquatPal.Server",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.ttf"
     },
     {
-      "Identity": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
+      "Identity": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Server/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
       "SourceId": "SquatPal.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/wwwroot/",
+      "ContentRoot": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Server/wwwroot/",
       "BasePath": "_content/SquatPal.Server",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.woff"
     },
     {
-      "Identity": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/wwwroot/css/open-iconic/ICON-LICENSE",
+      "Identity": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Server/wwwroot/css/open-iconic/ICON-LICENSE",
       "SourceId": "SquatPal.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/wwwroot/",
+      "ContentRoot": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Server/wwwroot/",
       "BasePath": "_content/SquatPal.Server",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/ICON-LICENSE"
     },
     {
-      "Identity": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/wwwroot/css/open-iconic/README.md",
+      "Identity": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Server/wwwroot/css/open-iconic/README.md",
       "SourceId": "SquatPal.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/wwwroot/",
+      "ContentRoot": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Server/wwwroot/",
       "BasePath": "_content/SquatPal.Server",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/README.md"
     },
     {
-      "Identity": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/wwwroot/css/site.css",
+      "Identity": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Server/wwwroot/css/site.css",
       "SourceId": "SquatPal.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/wwwroot/",
+      "ContentRoot": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Server/wwwroot/",
       "BasePath": "_content/SquatPal.Server",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/wwwroot/favicon.png",
+      "Identity": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Server/wwwroot/favicon.png",
       "SourceId": "SquatPal.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/wwwroot/",
+      "ContentRoot": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Server/wwwroot/",
       "BasePath": "_content/SquatPal.Server",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -323,12 +323,12 @@
       "OriginalItemSpec": "wwwroot/favicon.png"
     },
     {
-      "Identity": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/wwwroot/PersonalTrainer.PNG",
+      "Identity": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Server/wwwroot/Trainer.jpg",
       "SourceId": "SquatPal.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/wwwroot/",
+      "ContentRoot": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Server/wwwroot/",
       "BasePath": "_content/SquatPal.Server",
-      "RelativePath": "PersonalTrainer.PNG",
+      "RelativePath": "Trainer.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -337,15 +337,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/PersonalTrainer.PNG"
+      "OriginalItemSpec": "wwwroot/Trainer.jpg"
     },
     {
-      "Identity": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/wwwroot/WorkOut.jpg",
+      "Identity": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Server/wwwroot/WeightLift.JPG",
       "SourceId": "SquatPal.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Server/wwwroot/",
+      "ContentRoot": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Server/wwwroot/",
       "BasePath": "_content/SquatPal.Server",
-      "RelativePath": "WorkOut.jpg",
+      "RelativePath": "WeightLift.JPG",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -354,7 +354,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/WorkOut.jpg"
+      "OriginalItemSpec": "wwwroot/WeightLift.JPG"
     }
   ]
 }

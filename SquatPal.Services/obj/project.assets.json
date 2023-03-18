@@ -3221,11 +3221,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Services/SquatPal.Services.csproj",
+      "projectUniqueName": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Services/SquatPal.Services.csproj",
       "projectName": "SquatPal.Services",
-      "projectPath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Services/SquatPal.Services.csproj",
+      "projectPath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Services/SquatPal.Services.csproj",
       "packagesPath": "/Users/home/.nuget/packages/",
-      "outputPath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Services/obj/",
+      "outputPath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Services/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/home/.nuget/NuGet/NuGet.Config"
@@ -3240,11 +3240,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Data/SquatPal.Data.csproj": {
-              "projectPath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Data/SquatPal.Data.csproj"
+            "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Data/SquatPal.Data.csproj": {
+              "projectPath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Data/SquatPal.Data.csproj"
             },
-            "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Models/SquatPal.Models.csproj": {
-              "projectPath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPal_Blazor/SquatPal.Models/SquatPal.Models.csproj"
+            "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Models/SquatPal.Models.csproj": {
+              "projectPath": "/Users/home/Documents/BlueBadgeAzure/blueBadge/SquatPalFitnessApp/SquatPal.Models/SquatPal.Models.csproj"
             }
           }
         }

@@ -5,33 +5,32 @@
 <br/>
 <div align="center"><img src="demo.gif"></img></div>
 <h2>About</h2>
-Context and progress go here
+This project was created to complete the Red Badge Final for Eleven Fifty Academy. The assignment for this project was to build an n-tiered .NET Web Application. I chose a Blazor Server for my web app. This was a great learning experience building something I chose and enjoyed doing.
 
 <h2>Goal and requirements</h2>
-
-The idea behind first implementation. What is expected, what should be included, what should not be included.
+The requirements for this project were to create an application with a minumum of three data tables and two foreign key relationships. We had to fill out a Planning Document to detail the work we would perform prior to starting the project. There are many rubric requirements for the code including front end, back end, and database structure.
 
 <h2>Key learnings</h2>
 
-- Be 
-- clear
-- brief 
-- and 
-- concise
+- I learned how to plan and build an entire functioning app on my own
+- Time Management was very important
+- Giving myself breaks when I became stuck 
+- Reaching out for help earlier in the project
+- There are so many ways to fix a problem
 
-If project has been improved after submission, here is a good place to specify it.
+Unfortunately I was unable to get my authorization and azure deployment developed in time. This was an important lesson for me to allow for more time for these type of codes. 
 
 <h2>Installation</h2>
 
-1. Download this project as zip and extract it
-2. Import it in Android Studio
-3. Sync Gradle and run on your device/emulator
+1. Copy the web URL
+2. Type git clone into your terminal followed by the copied URL
+3. Enjoy!
 
 <h2>Contributing</h2>
-Mention pull requests. Link to an example and/or put it down here
+Special thank you to Terry Brown for helping me throughout the semester, but also struggling with me and my many MAC issues.
 
 <h2>Project status</h2>
-Insert here
+Complete...for now.
 
 <h2>Credits</h2>
 
